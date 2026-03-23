@@ -1,0 +1,35 @@
+dataset: humaneva
+t_his: 25
+t_pred: 100
+vae_specs:
+  model_name: DAST
+  rnn_type: gru
+  x_birnn: false
+  e_birnn: false
+  use_drnn_mlp: true
+batch_size: 256
+save_model_interval: 10
+
+mae_lr: 3.e-4
+vel_anchors: False
+use_dct: False
+n_pre: 20
+pred_va: False
+mask_stage: pre
+mask_ratio: 0.50
+pre_train: False
+ft: True
+ft_lr: 3.e-4
+num_mae_epoch: 200
+num_mae_epoch_fix: 100
+num_mae_data_sample: 10000
+num_ft_epoch: 300
+num_ft_epoch_fix: 30
+
+early_stopping:
+  enabled: true
+  patience: 20
+  min_delta: 1e-4
+  monitor: train_loss
+  restore_best_weights: true
+  verbose: true
