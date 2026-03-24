@@ -1,4 +1,6 @@
+# The Visual Computer
 # DAST-Net: Dual-stream Adaptive Spatio-Temporal Network
+# Code for "Enhancing Long-term Human Motion Prediction in HRCA via Dual-stream Adaptive Spatio-Temporal Modeling".
 
 ### Environment
 ------
