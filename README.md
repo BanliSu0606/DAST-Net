@@ -67,7 +67,7 @@ python exp.py --cfg asb_st_4 --mode train --seed 4
 After running the command, a directory named `<cfg> ` is created in the `./results` directory.
 
 
-## Evaluation
+### Evaluation
 ------
 Evaluate on the dataset.
 
@@ -96,18 +96,34 @@ Single random seed result
 MPJPE, FDE
 ```
 python eval_asb.py --cfg asb_st_0 --mode stats --use_best_model True  --seed 0
+```
+```
 python eval_asb.py --cfg asb_st_1 --mode stats --use_best_model True  --seed 1
+```
+```
 python eval_asb.py --cfg asb_st_2 --mode stats --use_best_model True  --seed 2
+```
+```
 python eval_asb.py --cfg asb_st_3 --mode stats --use_best_model True  --seed 3
+```
+```
 python eval_asb.py --cfg asb_st_4 --mode stats --use_best_model True  --seed 4
 ```
 
 MBLE, Parameters, Latency, FLOPs
 ```
 python eval_asb.py --cfg asb_st_0 --mode extended --use_best_model True  --seed 0
+```
+```
 python eval_asb.py --cfg asb_st_1 --mode extended --use_best_model True  --seed 1
+```
+```
 python eval_asb.py --cfg asb_st_2 --mode extended --use_best_model True  --seed 2
+```
+```
 python eval_asb.py --cfg asb_st_3 --mode extended --use_best_model True  --seed 3
+```
+```
 python eval_asb.py --cfg asb_st_4 --mode extended --use_best_model True  --seed 4
 ```
 
@@ -116,7 +132,8 @@ five random seeds result (the mean and standard deviation and 95% CI of MPJPE, F
 python eval_asb_multi_seeds.py
 ``
 
-## Visualization
+### Visualization
+------
 motion_pred
 ├── utils
      ├── visualizationasb.py
