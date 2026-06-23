@@ -1,0 +1,449 @@
+[2026-06-21 18:50:00,120] Starting fine-tuning with early stopping (patience=10, min_delta=0.0001)
+[2026-06-21 18:50:09,567] ====> Epoch: 0 Time: 9.45 FinetuneMSE: 0.309507263 lr: 0.00030
+[2026-06-21 18:50:09,569] Epoch 1: Loss improved from inf to 0.309507 (improvement: inf)
+[2026-06-21 18:50:09,757] Saved best model at epoch 1 to results/asb_st_4/models/best_model_epoch1.pkl
+[2026-06-21 18:50:18,638] ====> Epoch: 1 Time: 8.88 FinetuneMSE: 0.134866096 lr: 0.00030
+[2026-06-21 18:50:18,639] Epoch 2: Loss improved from 0.309507 to 0.134866 (improvement: 0.174641)
+[2026-06-21 18:50:18,829] Saved best model at epoch 2 to results/asb_st_4/models/best_model_epoch2.pkl
+[2026-06-21 18:50:27,701] ====> Epoch: 2 Time: 8.87 FinetuneMSE: 0.097712588 lr: 0.00030
+[2026-06-21 18:50:27,702] Epoch 3: Loss improved from 0.134866 to 0.097713 (improvement: 0.037154)
+[2026-06-21 18:50:27,885] Saved best model at epoch 3 to results/asb_st_4/models/best_model_epoch3.pkl
+[2026-06-21 18:50:36,781] ====> Epoch: 3 Time: 8.89 FinetuneMSE: 0.078252579 lr: 0.00030
+[2026-06-21 18:50:36,782] Epoch 4: Loss improved from 0.097713 to 0.078253 (improvement: 0.019460)
+[2026-06-21 18:50:36,969] Saved best model at epoch 4 to results/asb_st_4/models/best_model_epoch4.pkl
+[2026-06-21 18:50:45,833] ====> Epoch: 4 Time: 8.86 FinetuneMSE: 0.064404438 lr: 0.00030
+[2026-06-21 18:50:45,834] Epoch 5: Loss improved from 0.078253 to 0.064404 (improvement: 0.013848)
+[2026-06-21 18:50:46,024] Saved best model at epoch 5 to results/asb_st_4/models/best_model_epoch5.pkl
+[2026-06-21 18:50:54,867] ====> Epoch: 5 Time: 8.84 FinetuneMSE: 0.054009758 lr: 0.00030
+[2026-06-21 18:50:54,868] Epoch 6: Loss improved from 0.064404 to 0.054010 (improvement: 0.010395)
+[2026-06-21 18:50:55,064] Saved best model at epoch 6 to results/asb_st_4/models/best_model_epoch6.pkl
+[2026-06-21 18:51:03,961] ====> Epoch: 6 Time: 8.90 FinetuneMSE: 0.047000402 lr: 0.00030
+[2026-06-21 18:51:03,963] Epoch 7: Loss improved from 0.054010 to 0.047000 (improvement: 0.007009)
+[2026-06-21 18:51:04,148] Saved best model at epoch 7 to results/asb_st_4/models/best_model_epoch7.pkl
+[2026-06-21 18:51:13,036] ====> Epoch: 7 Time: 8.89 FinetuneMSE: 0.045126465 lr: 0.00030
+[2026-06-21 18:51:13,037] Epoch 8: Loss improved from 0.047000 to 0.045126 (improvement: 0.001874)
+[2026-06-21 18:51:13,220] Saved best model at epoch 8 to results/asb_st_4/models/best_model_epoch8.pkl
+[2026-06-21 18:51:22,192] ====> Epoch: 8 Time: 8.97 FinetuneMSE: 0.040678227 lr: 0.00030
+[2026-06-21 18:51:22,193] Epoch 9: Loss improved from 0.045126 to 0.040678 (improvement: 0.004448)
+[2026-06-21 18:51:22,403] Saved best model at epoch 9 to results/asb_st_4/models/best_model_epoch9.pkl
+[2026-06-21 18:51:31,382] ====> Epoch: 9 Time: 8.98 FinetuneMSE: 0.037981791 lr: 0.00030
+[2026-06-21 18:51:31,384] Epoch 10: Loss improved from 0.040678 to 0.037982 (improvement: 0.002696)
+[2026-06-21 18:51:31,602] Saved best model at epoch 10 to results/asb_st_4/models/best_model_epoch10.pkl
+[2026-06-21 18:51:40,776] ====> Epoch: 10 Time: 8.94 FinetuneMSE: 0.035955407 lr: 0.00030
+[2026-06-21 18:51:40,777] Epoch 11: Loss improved from 0.037982 to 0.035955 (improvement: 0.002026)
+[2026-06-21 18:51:40,966] Saved best model at epoch 11 to results/asb_st_4/models/best_model_epoch11.pkl
+[2026-06-21 18:51:49,953] ====> Epoch: 11 Time: 8.99 FinetuneMSE: 0.034186641 lr: 0.00030
+[2026-06-21 18:51:49,954] Epoch 12: Loss improved from 0.035955 to 0.034187 (improvement: 0.001769)
+[2026-06-21 18:51:50,154] Saved best model at epoch 12 to results/asb_st_4/models/best_model_epoch12.pkl
+[2026-06-21 18:51:59,188] ====> Epoch: 12 Time: 9.03 FinetuneMSE: 0.033126040 lr: 0.00030
+[2026-06-21 18:51:59,190] Epoch 13: Loss improved from 0.034187 to 0.033126 (improvement: 0.001061)
+[2026-06-21 18:51:59,382] Saved best model at epoch 13 to results/asb_st_4/models/best_model_epoch13.pkl
+[2026-06-21 18:52:08,324] ====> Epoch: 13 Time: 8.94 FinetuneMSE: 0.033608773 lr: 0.00030
+[2026-06-21 18:52:08,326] Epoch 14: Loss=0.033609, Best=0.033126, NoImprove=1/10
+[2026-06-21 18:52:17,254] ====> Epoch: 14 Time: 8.93 FinetuneMSE: 0.026356609 lr: 0.00030
+[2026-06-21 18:52:17,255] Epoch 15: Loss improved from 0.033126 to 0.026357 (improvement: 0.006769)
+[2026-06-21 18:52:17,434] Saved best model at epoch 15 to results/asb_st_4/models/best_model_epoch15.pkl
+[2026-06-21 18:52:26,351] ====> Epoch: 15 Time: 8.92 FinetuneMSE: 0.022255245 lr: 0.00030
+[2026-06-21 18:52:26,352] Epoch 16: Loss improved from 0.026357 to 0.022255 (improvement: 0.004101)
+[2026-06-21 18:52:26,537] Saved best model at epoch 16 to results/asb_st_4/models/best_model_epoch16.pkl
+[2026-06-21 18:52:35,518] ====> Epoch: 16 Time: 8.98 FinetuneMSE: 0.021170677 lr: 0.00030
+[2026-06-21 18:52:35,519] Epoch 17: Loss improved from 0.022255 to 0.021171 (improvement: 0.001085)
+[2026-06-21 18:52:35,728] Saved best model at epoch 17 to results/asb_st_4/models/best_model_epoch17.pkl
+[2026-06-21 18:52:44,655] ====> Epoch: 17 Time: 8.93 FinetuneMSE: 0.016118283 lr: 0.00030
+[2026-06-21 18:52:44,656] Epoch 18: Loss improved from 0.021171 to 0.016118 (improvement: 0.005052)
+[2026-06-21 18:52:44,837] Saved best model at epoch 18 to results/asb_st_4/models/best_model_epoch18.pkl
+[2026-06-21 18:52:53,772] ====> Epoch: 18 Time: 8.93 FinetuneMSE: 0.018418000 lr: 0.00030
+[2026-06-21 18:52:53,773] Epoch 19: Loss=0.018418, Best=0.016118, NoImprove=1/10
+[2026-06-21 18:53:02,736] ====> Epoch: 19 Time: 8.96 FinetuneMSE: 0.015907340 lr: 0.00030
+[2026-06-21 18:53:02,737] Epoch 20: Loss improved from 0.016118 to 0.015907 (improvement: 0.000211)
+[2026-06-21 18:53:02,916] Saved best model at epoch 20 to results/asb_st_4/models/best_model_epoch20.pkl
+[2026-06-21 18:53:12,036] ====> Epoch: 20 Time: 8.94 FinetuneMSE: 0.013843000 lr: 0.00030
+[2026-06-21 18:53:12,037] Epoch 21: Loss improved from 0.015907 to 0.013843 (improvement: 0.002064)
+[2026-06-21 18:53:12,221] Saved best model at epoch 21 to results/asb_st_4/models/best_model_epoch21.pkl
+[2026-06-21 18:53:21,091] ====> Epoch: 21 Time: 8.87 FinetuneMSE: 0.011038257 lr: 0.00030
+[2026-06-21 18:53:21,092] Epoch 22: Loss improved from 0.013843 to 0.011038 (improvement: 0.002805)
+[2026-06-21 18:53:21,273] Saved best model at epoch 22 to results/asb_st_4/models/best_model_epoch22.pkl
+[2026-06-21 18:53:30,173] ====> Epoch: 22 Time: 8.90 FinetuneMSE: 0.009676122 lr: 0.00030
+[2026-06-21 18:53:30,174] Epoch 23: Loss improved from 0.011038 to 0.009676 (improvement: 0.001362)
+[2026-06-21 18:53:30,362] Saved best model at epoch 23 to results/asb_st_4/models/best_model_epoch23.pkl
+[2026-06-21 18:53:39,312] ====> Epoch: 23 Time: 8.95 FinetuneMSE: 0.008672235 lr: 0.00030
+[2026-06-21 18:53:39,314] Epoch 24: Loss improved from 0.009676 to 0.008672 (improvement: 0.001004)
+[2026-06-21 18:53:39,499] Saved best model at epoch 24 to results/asb_st_4/models/best_model_epoch24.pkl
+[2026-06-21 18:53:48,413] ====> Epoch: 24 Time: 8.91 FinetuneMSE: 0.008054310 lr: 0.00030
+[2026-06-21 18:53:48,414] Epoch 25: Loss improved from 0.008672 to 0.008054 (improvement: 0.000618)
+[2026-06-21 18:53:48,609] Saved best model at epoch 25 to results/asb_st_4/models/best_model_epoch25.pkl
+[2026-06-21 18:53:57,517] ====> Epoch: 25 Time: 8.91 FinetuneMSE: 0.007271480 lr: 0.00030
+[2026-06-21 18:53:57,519] Epoch 26: Loss improved from 0.008054 to 0.007271 (improvement: 0.000783)
+[2026-06-21 18:53:57,704] Saved best model at epoch 26 to results/asb_st_4/models/best_model_epoch26.pkl
+[2026-06-21 18:54:06,612] ====> Epoch: 26 Time: 8.91 FinetuneMSE: 0.007270845 lr: 0.00030
+[2026-06-21 18:54:06,613] Epoch 27: Loss=0.007271, Best=0.007271, NoImprove=1/10
+[2026-06-21 18:54:15,504] ====> Epoch: 27 Time: 8.89 FinetuneMSE: 0.006888245 lr: 0.00030
+[2026-06-21 18:54:15,505] Epoch 28: Loss improved from 0.007271 to 0.006888 (improvement: 0.000383)
+[2026-06-21 18:54:15,694] Saved best model at epoch 28 to results/asb_st_4/models/best_model_epoch28.pkl
+[2026-06-21 18:54:24,626] ====> Epoch: 28 Time: 8.93 FinetuneMSE: 0.006762845 lr: 0.00030
+[2026-06-21 18:54:24,628] Epoch 29: Loss improved from 0.006888 to 0.006763 (improvement: 0.000125)
+[2026-06-21 18:54:24,820] Saved best model at epoch 29 to results/asb_st_4/models/best_model_epoch29.pkl
+[2026-06-21 18:54:33,723] ====> Epoch: 29 Time: 8.90 FinetuneMSE: 0.006590304 lr: 0.00030
+[2026-06-21 18:54:33,724] Epoch 30: Loss improved from 0.006763 to 0.006590 (improvement: 0.000173)
+[2026-06-21 18:54:33,908] Saved best model at epoch 30 to results/asb_st_4/models/best_model_epoch30.pkl
+[2026-06-21 18:54:43,036] ====> Epoch: 30 Time: 8.94 FinetuneMSE: 0.006363262 lr: 0.00030
+[2026-06-21 18:54:43,037] Epoch 31: Loss improved from 0.006590 to 0.006363 (improvement: 0.000227)
+[2026-06-21 18:54:43,219] Saved best model at epoch 31 to results/asb_st_4/models/best_model_epoch31.pkl
+[2026-06-21 18:54:52,117] ====> Epoch: 31 Time: 8.90 FinetuneMSE: 0.005987620 lr: 0.00030
+[2026-06-21 18:54:52,118] Epoch 32: Loss improved from 0.006363 to 0.005988 (improvement: 0.000376)
+[2026-06-21 18:54:52,303] Saved best model at epoch 32 to results/asb_st_4/models/best_model_epoch32.pkl
+[2026-06-21 18:55:01,214] ====> Epoch: 32 Time: 8.91 FinetuneMSE: 0.006208497 lr: 0.00030
+[2026-06-21 18:55:01,215] Epoch 33: Loss=0.006208, Best=0.005988, NoImprove=1/10
+[2026-06-21 18:55:10,080] ====> Epoch: 33 Time: 8.87 FinetuneMSE: 0.005918422 lr: 0.00030
+[2026-06-21 18:55:10,081] Epoch 34: Loss=0.005918, Best=0.005988, NoImprove=2/10
+[2026-06-21 18:55:18,945] ====> Epoch: 34 Time: 8.86 FinetuneMSE: 0.005950587 lr: 0.00030
+[2026-06-21 18:55:18,946] Epoch 35: Loss=0.005951, Best=0.005988, NoImprove=3/10
+[2026-06-21 18:55:27,790] ====> Epoch: 35 Time: 8.84 FinetuneMSE: 0.005858782 lr: 0.00030
+[2026-06-21 18:55:27,791] Epoch 36: Loss improved from 0.005988 to 0.005859 (improvement: 0.000129)
+[2026-06-21 18:55:27,975] Saved best model at epoch 36 to results/asb_st_4/models/best_model_epoch36.pkl
+[2026-06-21 18:55:36,847] ====> Epoch: 36 Time: 8.87 FinetuneMSE: 0.005664283 lr: 0.00030
+[2026-06-21 18:55:36,848] Epoch 37: Loss improved from 0.005859 to 0.005664 (improvement: 0.000194)
+[2026-06-21 18:55:37,032] Saved best model at epoch 37 to results/asb_st_4/models/best_model_epoch37.pkl
+[2026-06-21 18:55:45,920] ====> Epoch: 37 Time: 8.89 FinetuneMSE: 0.005805568 lr: 0.00030
+[2026-06-21 18:55:45,921] Epoch 38: Loss=0.005806, Best=0.005664, NoImprove=1/10
+[2026-06-21 18:55:54,840] ====> Epoch: 38 Time: 8.92 FinetuneMSE: 0.005616441 lr: 0.00030
+[2026-06-21 18:55:54,842] Epoch 39: Loss=0.005616, Best=0.005664, NoImprove=2/10
+[2026-06-21 18:56:03,749] ====> Epoch: 39 Time: 8.91 FinetuneMSE: 0.005435602 lr: 0.00030
+[2026-06-21 18:56:03,750] Epoch 40: Loss improved from 0.005664 to 0.005436 (improvement: 0.000229)
+[2026-06-21 18:56:03,926] Saved best model at epoch 40 to results/asb_st_4/models/best_model_epoch40.pkl
+[2026-06-21 18:56:13,013] ====> Epoch: 40 Time: 8.91 FinetuneMSE: 0.005347519 lr: 0.00030
+[2026-06-21 18:56:13,015] Epoch 41: Loss=0.005348, Best=0.005436, NoImprove=1/10
+[2026-06-21 18:56:21,894] ====> Epoch: 41 Time: 8.88 FinetuneMSE: 0.005485768 lr: 0.00030
+[2026-06-21 18:56:21,896] Epoch 42: Loss=0.005486, Best=0.005436, NoImprove=2/10
+[2026-06-21 18:56:30,828] ====> Epoch: 42 Time: 8.93 FinetuneMSE: 0.005489138 lr: 0.00030
+[2026-06-21 18:56:30,829] Epoch 43: Loss=0.005489, Best=0.005436, NoImprove=3/10
+[2026-06-21 18:56:39,749] ====> Epoch: 43 Time: 8.92 FinetuneMSE: 0.005553097 lr: 0.00030
+[2026-06-21 18:56:39,750] Epoch 44: Loss=0.005553, Best=0.005436, NoImprove=4/10
+[2026-06-21 18:56:48,646] ====> Epoch: 44 Time: 8.90 FinetuneMSE: 0.005642120 lr: 0.00030
+[2026-06-21 18:56:48,647] Epoch 45: Loss=0.005642, Best=0.005436, NoImprove=5/10
+[2026-06-21 18:56:57,519] ====> Epoch: 45 Time: 8.87 FinetuneMSE: 0.005197480 lr: 0.00030
+[2026-06-21 18:56:57,520] Epoch 46: Loss improved from 0.005436 to 0.005197 (improvement: 0.000238)
+[2026-06-21 18:56:57,700] Saved best model at epoch 46 to results/asb_st_4/models/best_model_epoch46.pkl
+[2026-06-21 18:57:06,648] ====> Epoch: 46 Time: 8.95 FinetuneMSE: 0.005283758 lr: 0.00030
+[2026-06-21 18:57:06,649] Epoch 47: Loss=0.005284, Best=0.005197, NoImprove=1/10
+[2026-06-21 18:57:15,546] ====> Epoch: 47 Time: 8.90 FinetuneMSE: 0.005222217 lr: 0.00030
+[2026-06-21 18:57:15,547] Epoch 48: Loss=0.005222, Best=0.005197, NoImprove=2/10
+[2026-06-21 18:57:24,421] ====> Epoch: 48 Time: 8.87 FinetuneMSE: 0.005149489 lr: 0.00030
+[2026-06-21 18:57:24,422] Epoch 49: Loss=0.005149, Best=0.005197, NoImprove=3/10
+[2026-06-21 18:57:33,306] ====> Epoch: 49 Time: 8.88 FinetuneMSE: 0.005081836 lr: 0.00027
+[2026-06-21 18:57:33,308] Epoch 50: Loss improved from 0.005197 to 0.005082 (improvement: 0.000116)
+[2026-06-21 18:57:33,528] Saved best model at epoch 50 to results/asb_st_4/models/best_model_epoch50.pkl
+[2026-06-21 18:57:42,647] ====> Epoch: 50 Time: 8.89 FinetuneMSE: 0.004943248 lr: 0.00027
+[2026-06-21 18:57:42,648] Epoch 51: Loss improved from 0.005082 to 0.004943 (improvement: 0.000139)
+[2026-06-21 18:57:42,842] Saved best model at epoch 51 to results/asb_st_4/models/best_model_epoch51.pkl
+[2026-06-21 18:57:51,720] ====> Epoch: 51 Time: 8.88 FinetuneMSE: 0.004835803 lr: 0.00027
+[2026-06-21 18:57:51,720] Epoch 52: Loss improved from 0.004943 to 0.004836 (improvement: 0.000107)
+[2026-06-21 18:57:51,910] Saved best model at epoch 52 to results/asb_st_4/models/best_model_epoch52.pkl
+[2026-06-21 18:58:00,802] ====> Epoch: 52 Time: 8.89 FinetuneMSE: 0.004778668 lr: 0.00027
+[2026-06-21 18:58:00,804] Epoch 53: Loss=0.004779, Best=0.004836, NoImprove=1/10
+[2026-06-21 18:58:09,668] ====> Epoch: 53 Time: 8.86 FinetuneMSE: 0.004631361 lr: 0.00027
+[2026-06-21 18:58:09,669] Epoch 54: Loss improved from 0.004836 to 0.004631 (improvement: 0.000204)
+[2026-06-21 18:58:09,845] Saved best model at epoch 54 to results/asb_st_4/models/best_model_epoch54.pkl
+[2026-06-21 18:58:18,749] ====> Epoch: 54 Time: 8.90 FinetuneMSE: 0.004708322 lr: 0.00027
+[2026-06-21 18:58:18,750] Epoch 55: Loss=0.004708, Best=0.004631, NoImprove=1/10
+[2026-06-21 18:58:27,604] ====> Epoch: 55 Time: 8.85 FinetuneMSE: 0.004674498 lr: 0.00027
+[2026-06-21 18:58:27,605] Epoch 56: Loss=0.004674, Best=0.004631, NoImprove=2/10
+[2026-06-21 18:58:36,486] ====> Epoch: 56 Time: 8.88 FinetuneMSE: 0.004697922 lr: 0.00027
+[2026-06-21 18:58:36,487] Epoch 57: Loss=0.004698, Best=0.004631, NoImprove=3/10
+[2026-06-21 18:58:45,366] ====> Epoch: 57 Time: 8.88 FinetuneMSE: 0.004820419 lr: 0.00027
+[2026-06-21 18:58:45,367] Epoch 58: Loss=0.004820, Best=0.004631, NoImprove=4/10
+[2026-06-21 18:58:54,243] ====> Epoch: 58 Time: 8.88 FinetuneMSE: 0.004586521 lr: 0.00027
+[2026-06-21 18:58:54,245] Epoch 59: Loss=0.004587, Best=0.004631, NoImprove=5/10
+[2026-06-21 18:59:03,073] ====> Epoch: 59 Time: 8.83 FinetuneMSE: 0.004906534 lr: 0.00027
+[2026-06-21 18:59:03,073] Epoch 60: Loss=0.004907, Best=0.004631, NoImprove=6/10
+[2026-06-21 18:59:12,175] ====> Epoch: 60 Time: 8.91 FinetuneMSE: 0.004890225 lr: 0.00027
+[2026-06-21 18:59:12,176] Epoch 61: Loss=0.004890, Best=0.004631, NoImprove=7/10
+[2026-06-21 18:59:21,058] ====> Epoch: 61 Time: 8.88 FinetuneMSE: 0.004738578 lr: 0.00027
+[2026-06-21 18:59:21,059] Epoch 62: Loss=0.004739, Best=0.004631, NoImprove=8/10
+[2026-06-21 18:59:29,872] ====> Epoch: 62 Time: 8.81 FinetuneMSE: 0.004649561 lr: 0.00027
+[2026-06-21 18:59:29,873] Epoch 63: Loss=0.004650, Best=0.004631, NoImprove=9/10
+[2026-06-21 18:59:38,765] ====> Epoch: 63 Time: 8.89 FinetuneMSE: 0.004514175 lr: 0.00027
+[2026-06-21 18:59:38,766] Epoch 64: Loss improved from 0.004631 to 0.004514 (improvement: 0.000117)
+[2026-06-21 18:59:38,970] Saved best model at epoch 64 to results/asb_st_4/models/best_model_epoch64.pkl
+[2026-06-21 18:59:47,866] ====> Epoch: 64 Time: 8.90 FinetuneMSE: 0.004403943 lr: 0.00027
+[2026-06-21 18:59:47,867] Epoch 65: Loss improved from 0.004514 to 0.004404 (improvement: 0.000110)
+[2026-06-21 18:59:48,051] Saved best model at epoch 65 to results/asb_st_4/models/best_model_epoch65.pkl
+[2026-06-21 18:59:56,958] ====> Epoch: 65 Time: 8.91 FinetuneMSE: 0.004302440 lr: 0.00027
+[2026-06-21 18:59:56,959] Epoch 66: Loss improved from 0.004404 to 0.004302 (improvement: 0.000102)
+[2026-06-21 18:59:57,147] Saved best model at epoch 66 to results/asb_st_4/models/best_model_epoch66.pkl
+[2026-06-21 19:00:06,018] ====> Epoch: 66 Time: 8.87 FinetuneMSE: 0.004668981 lr: 0.00027
+[2026-06-21 19:00:06,019] Epoch 67: Loss=0.004669, Best=0.004302, NoImprove=1/10
+[2026-06-21 19:00:14,895] ====> Epoch: 67 Time: 8.88 FinetuneMSE: 0.004536849 lr: 0.00027
+[2026-06-21 19:00:14,896] Epoch 68: Loss=0.004537, Best=0.004302, NoImprove=2/10
+[2026-06-21 19:00:23,870] ====> Epoch: 68 Time: 8.97 FinetuneMSE: 0.004947736 lr: 0.00027
+[2026-06-21 19:00:23,870] Epoch 69: Loss=0.004948, Best=0.004302, NoImprove=3/10
+[2026-06-21 19:00:32,733] ====> Epoch: 69 Time: 8.86 FinetuneMSE: 0.005008801 lr: 0.00027
+[2026-06-21 19:00:32,734] Epoch 70: Loss=0.005009, Best=0.004302, NoImprove=4/10
+[2026-06-21 19:00:41,813] ====> Epoch: 70 Time: 8.90 FinetuneMSE: 0.004910405 lr: 0.00027
+[2026-06-21 19:00:41,814] Epoch 71: Loss=0.004910, Best=0.004302, NoImprove=5/10
+[2026-06-21 19:00:50,691] ====> Epoch: 71 Time: 8.88 FinetuneMSE: 0.004492741 lr: 0.00027
+[2026-06-21 19:00:50,692] Epoch 72: Loss=0.004493, Best=0.004302, NoImprove=6/10
+[2026-06-21 19:00:59,596] ====> Epoch: 72 Time: 8.90 FinetuneMSE: 0.004647849 lr: 0.00027
+[2026-06-21 19:00:59,597] Epoch 73: Loss=0.004648, Best=0.004302, NoImprove=7/10
+[2026-06-21 19:01:08,473] ====> Epoch: 73 Time: 8.88 FinetuneMSE: 0.004631982 lr: 0.00027
+[2026-06-21 19:01:08,474] Epoch 74: Loss=0.004632, Best=0.004302, NoImprove=8/10
+[2026-06-21 19:01:17,321] ====> Epoch: 74 Time: 8.85 FinetuneMSE: 0.004412653 lr: 0.00024
+[2026-06-21 19:01:17,323] Epoch 75: Loss=0.004413, Best=0.004302, NoImprove=9/10
+[2026-06-21 19:01:26,249] ====> Epoch: 75 Time: 8.93 FinetuneMSE: 0.004159761 lr: 0.00024
+[2026-06-21 19:01:26,250] Epoch 76: Loss improved from 0.004302 to 0.004160 (improvement: 0.000143)
+[2026-06-21 19:01:26,436] Saved best model at epoch 76 to results/asb_st_4/models/best_model_epoch76.pkl
+[2026-06-21 19:01:35,354] ====> Epoch: 76 Time: 8.92 FinetuneMSE: 0.004286035 lr: 0.00024
+[2026-06-21 19:01:35,355] Epoch 77: Loss=0.004286, Best=0.004160, NoImprove=1/10
+[2026-06-21 19:01:44,295] ====> Epoch: 77 Time: 8.94 FinetuneMSE: 0.004175379 lr: 0.00024
+[2026-06-21 19:01:44,296] Epoch 78: Loss=0.004175, Best=0.004160, NoImprove=2/10
+[2026-06-21 19:01:53,222] ====> Epoch: 78 Time: 8.93 FinetuneMSE: 0.004088725 lr: 0.00024
+[2026-06-21 19:01:53,224] Epoch 79: Loss=0.004089, Best=0.004160, NoImprove=3/10
+[2026-06-21 19:02:02,150] ====> Epoch: 79 Time: 8.93 FinetuneMSE: 0.004027791 lr: 0.00024
+[2026-06-21 19:02:02,151] Epoch 80: Loss improved from 0.004160 to 0.004028 (improvement: 0.000132)
+[2026-06-21 19:03:53,757] Starting fine-tuning with early stopping (patience=10, min_delta=0.0001)
+[2026-06-21 19:04:03,511] ====> Epoch: 0 Time: 9.75 FinetuneMSE: 0.309509661 lr: 0.00030
+[2026-06-21 19:04:03,513] Epoch 1: Loss improved from inf to 0.309510 (improvement: inf)
+[2026-06-21 19:04:03,749] Saved best model at epoch 1 to results/asb_st_4/models/best_model_epoch1.pkl
+[2026-06-21 19:04:12,744] ====> Epoch: 1 Time: 8.99 FinetuneMSE: 0.134868273 lr: 0.00030
+[2026-06-21 19:04:12,747] Epoch 2: Loss improved from 0.309510 to 0.134868 (improvement: 0.174641)
+[2026-06-21 19:04:13,036] Saved best model at epoch 2 to results/asb_st_4/models/best_model_epoch2.pkl
+[2026-06-21 19:04:22,049] ====> Epoch: 2 Time: 9.01 FinetuneMSE: 0.097713566 lr: 0.00030
+[2026-06-21 19:04:22,051] Epoch 3: Loss improved from 0.134868 to 0.097714 (improvement: 0.037155)
+[2026-06-21 19:04:22,278] Saved best model at epoch 3 to results/asb_st_4/models/best_model_epoch3.pkl
+[2026-06-21 19:04:31,268] ====> Epoch: 3 Time: 8.99 FinetuneMSE: 0.078251672 lr: 0.00030
+[2026-06-21 19:04:31,269] Epoch 4: Loss improved from 0.097714 to 0.078252 (improvement: 0.019462)
+[2026-06-21 19:04:31,487] Saved best model at epoch 4 to results/asb_st_4/models/best_model_epoch4.pkl
+[2026-06-21 19:04:40,422] ====> Epoch: 4 Time: 8.93 FinetuneMSE: 0.064405267 lr: 0.00030
+[2026-06-21 19:04:40,424] Epoch 5: Loss improved from 0.078252 to 0.064405 (improvement: 0.013846)
+[2026-06-21 19:04:40,656] Saved best model at epoch 5 to results/asb_st_4/models/best_model_epoch5.pkl
+[2026-06-21 19:04:49,515] ====> Epoch: 5 Time: 8.86 FinetuneMSE: 0.054009791 lr: 0.00030
+[2026-06-21 19:04:49,516] Epoch 6: Loss improved from 0.064405 to 0.054010 (improvement: 0.010395)
+[2026-06-21 19:04:49,738] Saved best model at epoch 6 to results/asb_st_4/models/best_model_epoch6.pkl
+[2026-06-21 19:04:58,649] ====> Epoch: 6 Time: 8.91 FinetuneMSE: 0.046999606 lr: 0.00030
+[2026-06-21 19:04:58,651] Epoch 7: Loss improved from 0.054010 to 0.047000 (improvement: 0.007010)
+[2026-06-21 19:04:58,877] Saved best model at epoch 7 to results/asb_st_4/models/best_model_epoch7.pkl
+[2026-06-21 19:05:07,773] ====> Epoch: 7 Time: 8.90 FinetuneMSE: 0.045125904 lr: 0.00030
+[2026-06-21 19:05:07,775] Epoch 8: Loss improved from 0.047000 to 0.045126 (improvement: 0.001874)
+[2026-06-21 19:05:07,992] Saved best model at epoch 8 to results/asb_st_4/models/best_model_epoch8.pkl
+[2026-06-21 19:05:16,902] ====> Epoch: 8 Time: 8.91 FinetuneMSE: 0.040679558 lr: 0.00030
+[2026-06-21 19:05:16,903] Epoch 9: Loss improved from 0.045126 to 0.040680 (improvement: 0.004446)
+[2026-06-21 19:05:17,119] Saved best model at epoch 9 to results/asb_st_4/models/best_model_epoch9.pkl
+[2026-06-21 19:05:26,020] ====> Epoch: 9 Time: 8.90 FinetuneMSE: 0.037982988 lr: 0.00030
+[2026-06-21 19:05:26,022] Epoch 10: Loss improved from 0.040680 to 0.037983 (improvement: 0.002697)
+[2026-06-21 19:05:26,241] Saved best model at epoch 10 to results/asb_st_4/models/best_model_epoch10.pkl
+[2026-06-21 19:05:35,434] ====> Epoch: 10 Time: 8.97 FinetuneMSE: 0.035956043 lr: 0.00030
+[2026-06-21 19:05:35,435] Epoch 11: Loss improved from 0.037983 to 0.035956 (improvement: 0.002027)
+[2026-06-21 19:05:35,669] Saved best model at epoch 11 to results/asb_st_4/models/best_model_epoch11.pkl
+[2026-06-21 19:05:44,665] ====> Epoch: 11 Time: 9.00 FinetuneMSE: 0.034187613 lr: 0.00030
+[2026-06-21 19:05:44,666] Epoch 12: Loss improved from 0.035956 to 0.034188 (improvement: 0.001768)
+[2026-06-21 19:05:44,890] Saved best model at epoch 12 to results/asb_st_4/models/best_model_epoch12.pkl
+[2026-06-21 19:05:53,807] ====> Epoch: 12 Time: 8.92 FinetuneMSE: 0.033126209 lr: 0.00030
+[2026-06-21 19:05:53,809] Epoch 13: Loss improved from 0.034188 to 0.033126 (improvement: 0.001061)
+[2026-06-21 19:05:54,037] Saved best model at epoch 13 to results/asb_st_4/models/best_model_epoch13.pkl
+[2026-06-21 19:06:02,943] ====> Epoch: 13 Time: 8.91 FinetuneMSE: 0.033619961 lr: 0.00030
+[2026-06-21 19:06:02,944] Epoch 14: Loss=0.033620, Best=0.033126, NoImprove=1/10
+[2026-06-21 19:06:11,838] ====> Epoch: 14 Time: 8.89 FinetuneMSE: 0.026368226 lr: 0.00030
+[2026-06-21 19:06:11,839] Epoch 15: Loss improved from 0.033126 to 0.026368 (improvement: 0.006758)
+[2026-06-21 19:06:12,058] Saved best model at epoch 15 to results/asb_st_4/models/best_model_epoch15.pkl
+[2026-06-21 19:06:20,998] ====> Epoch: 15 Time: 8.94 FinetuneMSE: 0.022746503 lr: 0.00030
+[2026-06-21 19:06:21,000] Epoch 16: Loss improved from 0.026368 to 0.022747 (improvement: 0.003622)
+[2026-06-21 19:06:21,226] Saved best model at epoch 16 to results/asb_st_4/models/best_model_epoch16.pkl
+[2026-06-21 19:06:30,271] ====> Epoch: 16 Time: 9.04 FinetuneMSE: 0.020490483 lr: 0.00030
+[2026-06-21 19:06:30,272] Epoch 17: Loss improved from 0.022747 to 0.020490 (improvement: 0.002256)
+[2026-06-21 19:06:30,529] Saved best model at epoch 17 to results/asb_st_4/models/best_model_epoch17.pkl
+[2026-06-21 19:06:39,423] ====> Epoch: 17 Time: 8.89 FinetuneMSE: 0.015989276 lr: 0.00030
+[2026-06-21 19:06:39,424] Epoch 18: Loss improved from 0.020490 to 0.015989 (improvement: 0.004501)
+[2026-06-21 19:06:39,650] Saved best model at epoch 18 to results/asb_st_4/models/best_model_epoch18.pkl
+[2026-06-21 19:06:48,617] ====> Epoch: 18 Time: 8.97 FinetuneMSE: 0.018123505 lr: 0.00030
+[2026-06-21 19:06:48,618] Epoch 19: Loss=0.018124, Best=0.015989, NoImprove=1/10
+[2026-06-21 19:06:57,565] ====> Epoch: 19 Time: 8.95 FinetuneMSE: 0.016245262 lr: 0.00030
+[2026-06-21 19:06:57,570] Epoch 20: Loss=0.016245, Best=0.015989, NoImprove=2/10
+[2026-06-21 19:07:06,989] ====> Epoch: 20 Time: 9.12 FinetuneMSE: 0.014992336 lr: 0.00030
+[2026-06-21 19:07:06,990] Epoch 21: Loss improved from 0.015989 to 0.014992 (improvement: 0.000997)
+[2026-06-21 19:07:07,247] Saved best model at epoch 21 to results/asb_st_4/models/best_model_epoch21.pkl
+[2026-06-21 19:07:16,157] ====> Epoch: 21 Time: 8.91 FinetuneMSE: 0.011191895 lr: 0.00030
+[2026-06-21 19:07:16,157] Epoch 22: Loss improved from 0.014992 to 0.011192 (improvement: 0.003800)
+[2026-06-21 19:07:16,375] Saved best model at epoch 22 to results/asb_st_4/models/best_model_epoch22.pkl
+[2026-06-21 19:07:25,329] ====> Epoch: 22 Time: 8.95 FinetuneMSE: 0.009818651 lr: 0.00030
+[2026-06-21 19:07:25,331] Epoch 23: Loss improved from 0.011192 to 0.009819 (improvement: 0.001373)
+[2026-06-21 19:07:25,553] Saved best model at epoch 23 to results/asb_st_4/models/best_model_epoch23.pkl
+[2026-06-21 19:07:34,480] ====> Epoch: 23 Time: 8.93 FinetuneMSE: 0.008926920 lr: 0.00030
+[2026-06-21 19:07:34,482] Epoch 24: Loss improved from 0.009819 to 0.008927 (improvement: 0.000892)
+[2026-06-21 19:07:34,699] Saved best model at epoch 24 to results/asb_st_4/models/best_model_epoch24.pkl
+[2026-06-21 19:07:43,617] ====> Epoch: 24 Time: 8.92 FinetuneMSE: 0.008095427 lr: 0.00030
+[2026-06-21 19:07:43,619] Epoch 25: Loss improved from 0.008927 to 0.008095 (improvement: 0.000831)
+[2026-06-21 19:07:43,832] Saved best model at epoch 25 to results/asb_st_4/models/best_model_epoch25.pkl
+[2026-06-21 19:07:52,788] ====> Epoch: 25 Time: 8.96 FinetuneMSE: 0.007264364 lr: 0.00030
+[2026-06-21 19:07:52,789] Epoch 26: Loss improved from 0.008095 to 0.007264 (improvement: 0.000831)
+[2026-06-21 19:07:53,029] Saved best model at epoch 26 to results/asb_st_4/models/best_model_epoch26.pkl
+[2026-06-21 19:08:01,941] ====> Epoch: 26 Time: 8.91 FinetuneMSE: 0.007300105 lr: 0.00030
+[2026-06-21 19:08:01,942] Epoch 27: Loss=0.007300, Best=0.007264, NoImprove=1/10
+[2026-06-21 19:08:10,875] ====> Epoch: 27 Time: 8.93 FinetuneMSE: 0.006876797 lr: 0.00030
+[2026-06-21 19:08:10,876] Epoch 28: Loss improved from 0.007264 to 0.006877 (improvement: 0.000388)
+[2026-06-21 19:08:11,086] Saved best model at epoch 28 to results/asb_st_4/models/best_model_epoch28.pkl
+[2026-06-21 19:08:20,008] ====> Epoch: 28 Time: 8.92 FinetuneMSE: 0.006640428 lr: 0.00030
+[2026-06-21 19:08:20,009] Epoch 29: Loss improved from 0.006877 to 0.006640 (improvement: 0.000236)
+[2026-06-21 19:08:20,216] Saved best model at epoch 29 to results/asb_st_4/models/best_model_epoch29.pkl
+[2026-06-21 19:08:29,157] ====> Epoch: 29 Time: 8.94 FinetuneMSE: 0.006560015 lr: 0.00030
+[2026-06-21 19:08:29,159] Epoch 30: Loss=0.006560, Best=0.006640, NoImprove=1/10
+[2026-06-21 19:08:38,287] ====> Epoch: 30 Time: 8.90 FinetuneMSE: 0.006455882 lr: 0.00030
+[2026-06-21 19:08:38,288] Epoch 31: Loss improved from 0.006640 to 0.006456 (improvement: 0.000185)
+[2026-06-21 19:08:38,507] Saved best model at epoch 31 to results/asb_st_4/models/best_model_epoch31.pkl
+[2026-06-21 19:08:47,409] ====> Epoch: 31 Time: 8.90 FinetuneMSE: 0.006186222 lr: 0.00030
+[2026-06-21 19:08:47,410] Epoch 32: Loss improved from 0.006456 to 0.006186 (improvement: 0.000270)
+[2026-06-21 19:08:47,633] Saved best model at epoch 32 to results/asb_st_4/models/best_model_epoch32.pkl
+[2026-06-21 19:08:56,563] ====> Epoch: 32 Time: 8.93 FinetuneMSE: 0.006313555 lr: 0.00030
+[2026-06-21 19:08:56,564] Epoch 33: Loss=0.006314, Best=0.006186, NoImprove=1/10
+[2026-06-21 19:09:05,480] ====> Epoch: 33 Time: 8.92 FinetuneMSE: 0.005865575 lr: 0.00030
+[2026-06-21 19:09:05,482] Epoch 34: Loss improved from 0.006186 to 0.005866 (improvement: 0.000321)
+[2026-06-21 19:09:05,700] Saved best model at epoch 34 to results/asb_st_4/models/best_model_epoch34.pkl
+[2026-06-21 19:09:14,623] ====> Epoch: 34 Time: 8.92 FinetuneMSE: 0.005772390 lr: 0.00030
+[2026-06-21 19:09:14,624] Epoch 35: Loss=0.005772, Best=0.005866, NoImprove=1/10
+[2026-06-21 19:09:23,562] ====> Epoch: 35 Time: 8.94 FinetuneMSE: 0.005787285 lr: 0.00030
+[2026-06-21 19:09:23,563] Epoch 36: Loss=0.005787, Best=0.005866, NoImprove=2/10
+[2026-06-21 19:09:32,484] ====> Epoch: 36 Time: 8.92 FinetuneMSE: 0.005630341 lr: 0.00030
+[2026-06-21 19:09:32,485] Epoch 37: Loss improved from 0.005866 to 0.005630 (improvement: 0.000235)
+[2026-06-21 19:09:32,692] Saved best model at epoch 37 to results/asb_st_4/models/best_model_epoch37.pkl
+[2026-06-21 19:09:41,604] ====> Epoch: 37 Time: 8.91 FinetuneMSE: 0.005707135 lr: 0.00030
+[2026-06-21 19:09:41,605] Epoch 38: Loss=0.005707, Best=0.005630, NoImprove=1/10
+[2026-06-21 19:09:50,585] ====> Epoch: 38 Time: 8.98 FinetuneMSE: 0.005567510 lr: 0.00030
+[2026-06-21 19:09:50,587] Epoch 39: Loss=0.005568, Best=0.005630, NoImprove=2/10
+[2026-06-21 19:09:59,492] ====> Epoch: 39 Time: 8.90 FinetuneMSE: 0.005414963 lr: 0.00030
+[2026-06-21 19:09:59,493] Epoch 40: Loss improved from 0.005630 to 0.005415 (improvement: 0.000215)
+[2026-06-21 19:09:59,712] Saved best model at epoch 40 to results/asb_st_4/models/best_model_epoch40.pkl
+[2026-06-21 19:10:08,859] ====> Epoch: 40 Time: 8.94 FinetuneMSE: 0.005331055 lr: 0.00030
+[2026-06-21 19:10:08,860] Epoch 41: Loss=0.005331, Best=0.005415, NoImprove=1/10
+[2026-06-21 19:10:17,795] ====> Epoch: 41 Time: 8.93 FinetuneMSE: 0.005295925 lr: 0.00030
+[2026-06-21 19:10:17,797] Epoch 42: Loss improved from 0.005415 to 0.005296 (improvement: 0.000119)
+[2026-06-21 19:10:17,983] Saved best model at epoch 42 to results/asb_st_4/models/best_model_epoch42.pkl
+[2026-06-21 19:10:26,909] ====> Epoch: 42 Time: 8.93 FinetuneMSE: 0.005367109 lr: 0.00030
+[2026-06-21 19:10:26,910] Epoch 43: Loss=0.005367, Best=0.005296, NoImprove=1/10
+[2026-06-21 19:10:35,835] ====> Epoch: 43 Time: 8.92 FinetuneMSE: 0.005324083 lr: 0.00030
+[2026-06-21 19:10:35,836] Epoch 44: Loss=0.005324, Best=0.005296, NoImprove=2/10
+[2026-06-21 19:10:44,756] ====> Epoch: 44 Time: 8.92 FinetuneMSE: 0.005357781 lr: 0.00030
+[2026-06-21 19:10:44,757] Epoch 45: Loss=0.005358, Best=0.005296, NoImprove=3/10
+[2026-06-21 19:10:53,651] ====> Epoch: 45 Time: 8.89 FinetuneMSE: 0.005081288 lr: 0.00030
+[2026-06-21 19:10:53,652] Epoch 46: Loss improved from 0.005296 to 0.005081 (improvement: 0.000215)
+[2026-06-21 19:10:53,874] Saved best model at epoch 46 to results/asb_st_4/models/best_model_epoch46.pkl
+[2026-06-21 19:11:02,820] ====> Epoch: 46 Time: 8.95 FinetuneMSE: 0.005202174 lr: 0.00030
+[2026-06-21 19:11:02,822] Epoch 47: Loss=0.005202, Best=0.005081, NoImprove=1/10
+[2026-06-21 19:11:11,793] ====> Epoch: 47 Time: 8.97 FinetuneMSE: 0.005412083 lr: 0.00030
+[2026-06-21 19:11:11,794] Epoch 48: Loss=0.005412, Best=0.005081, NoImprove=2/10
+[2026-06-21 19:11:20,906] ====> Epoch: 48 Time: 9.11 FinetuneMSE: 0.005453511 lr: 0.00030
+[2026-06-21 19:11:20,907] Epoch 49: Loss=0.005454, Best=0.005081, NoImprove=3/10
+[2026-06-21 19:11:30,020] ====> Epoch: 49 Time: 9.11 FinetuneMSE: 0.005187490 lr: 0.00027
+[2026-06-21 19:11:30,022] Epoch 50: Loss=0.005187, Best=0.005081, NoImprove=4/10
+[2026-06-21 19:11:39,207] ====> Epoch: 50 Time: 8.94 FinetuneMSE: 0.004966825 lr: 0.00027
+[2026-06-21 19:11:39,208] Epoch 51: Loss improved from 0.005081 to 0.004967 (improvement: 0.000114)
+[2026-06-21 19:11:39,443] Saved best model at epoch 51 to results/asb_st_4/models/best_model_epoch51.pkl
+[2026-06-21 19:11:48,447] ====> Epoch: 51 Time: 9.00 FinetuneMSE: 0.004856863 lr: 0.00027
+[2026-06-21 19:11:48,448] Epoch 52: Loss improved from 0.004967 to 0.004857 (improvement: 0.000110)
+[2026-06-21 19:11:48,686] Saved best model at epoch 52 to results/asb_st_4/models/best_model_epoch52.pkl
+[2026-06-21 19:11:57,649] ====> Epoch: 52 Time: 8.96 FinetuneMSE: 0.004780315 lr: 0.00027
+[2026-06-21 19:11:57,650] Epoch 53: Loss=0.004780, Best=0.004857, NoImprove=1/10
+[2026-06-21 19:12:06,577] ====> Epoch: 53 Time: 8.93 FinetuneMSE: 0.004625281 lr: 0.00027
+[2026-06-21 19:12:06,579] Epoch 54: Loss improved from 0.004857 to 0.004625 (improvement: 0.000232)
+[2026-06-21 19:12:06,811] Saved best model at epoch 54 to results/asb_st_4/models/best_model_epoch54.pkl
+[2026-06-21 19:12:15,746] ====> Epoch: 54 Time: 8.93 FinetuneMSE: 0.004687097 lr: 0.00027
+[2026-06-21 19:12:15,747] Epoch 55: Loss=0.004687, Best=0.004625, NoImprove=1/10
+[2026-06-21 19:12:24,612] ====> Epoch: 55 Time: 8.86 FinetuneMSE: 0.004646070 lr: 0.00027
+[2026-06-21 19:12:24,614] Epoch 56: Loss=0.004646, Best=0.004625, NoImprove=2/10
+[2026-06-21 19:12:33,542] ====> Epoch: 56 Time: 8.93 FinetuneMSE: 0.004659929 lr: 0.00027
+[2026-06-21 19:12:33,543] Epoch 57: Loss=0.004660, Best=0.004625, NoImprove=3/10
+[2026-06-21 19:12:42,466] ====> Epoch: 57 Time: 8.92 FinetuneMSE: 0.004779906 lr: 0.00027
+[2026-06-21 19:12:42,467] Epoch 58: Loss=0.004780, Best=0.004625, NoImprove=4/10
+[2026-06-21 19:12:51,380] ====> Epoch: 58 Time: 8.91 FinetuneMSE: 0.004504177 lr: 0.00027
+[2026-06-21 19:12:51,381] Epoch 59: Loss improved from 0.004625 to 0.004504 (improvement: 0.000121)
+[2026-06-21 19:12:51,604] Saved best model at epoch 59 to results/asb_st_4/models/best_model_epoch59.pkl
+[2026-06-21 19:13:00,568] ====> Epoch: 59 Time: 8.96 FinetuneMSE: 0.004755874 lr: 0.00027
+[2026-06-21 19:13:00,570] Epoch 60: Loss=0.004756, Best=0.004504, NoImprove=1/10
+[2026-06-21 19:13:09,778] ====> Epoch: 60 Time: 8.99 FinetuneMSE: 0.004727286 lr: 0.00027
+[2026-06-21 19:13:09,779] Epoch 61: Loss=0.004727, Best=0.004504, NoImprove=2/10
+[2026-06-21 19:13:18,686] ====> Epoch: 61 Time: 8.91 FinetuneMSE: 0.004566416 lr: 0.00027
+[2026-06-21 19:13:18,687] Epoch 62: Loss=0.004566, Best=0.004504, NoImprove=3/10
+[2026-06-21 19:13:27,578] ====> Epoch: 62 Time: 8.89 FinetuneMSE: 0.004544994 lr: 0.00027
+[2026-06-21 19:13:27,580] Epoch 63: Loss=0.004545, Best=0.004504, NoImprove=4/10
+[2026-06-21 19:13:36,538] ====> Epoch: 63 Time: 8.96 FinetuneMSE: 0.004492973 lr: 0.00027
+[2026-06-21 19:13:36,539] Epoch 64: Loss=0.004493, Best=0.004504, NoImprove=5/10
+[2026-06-21 19:13:45,545] ====> Epoch: 64 Time: 9.01 FinetuneMSE: 0.004784582 lr: 0.00027
+[2026-06-21 19:13:45,547] Epoch 65: Loss=0.004785, Best=0.004504, NoImprove=6/10
+[2026-06-21 19:13:54,496] ====> Epoch: 65 Time: 8.95 FinetuneMSE: 0.004405699 lr: 0.00027
+[2026-06-21 19:13:54,497] Epoch 66: Loss=0.004406, Best=0.004504, NoImprove=7/10
+[2026-06-21 19:14:03,472] ====> Epoch: 66 Time: 8.97 FinetuneMSE: 0.004483665 lr: 0.00027
+[2026-06-21 19:14:03,473] Epoch 67: Loss=0.004484, Best=0.004504, NoImprove=8/10
+[2026-06-21 19:14:12,445] ====> Epoch: 67 Time: 8.97 FinetuneMSE: 0.004318245 lr: 0.00027
+[2026-06-21 19:14:12,446] Epoch 68: Loss improved from 0.004504 to 0.004318 (improvement: 0.000186)
+[2026-06-21 19:14:12,654] Saved best model at epoch 68 to results/asb_st_4/models/best_model_epoch68.pkl
+[2026-06-21 19:14:21,583] ====> Epoch: 68 Time: 8.93 FinetuneMSE: 0.004313694 lr: 0.00027
+[2026-06-21 19:14:21,584] Epoch 69: Loss=0.004314, Best=0.004318, NoImprove=1/10
+[2026-06-21 19:14:30,596] ====> Epoch: 69 Time: 9.01 FinetuneMSE: 0.004442381 lr: 0.00027
+[2026-06-21 19:14:30,597] Epoch 70: Loss=0.004442, Best=0.004318, NoImprove=2/10
+[2026-06-21 19:14:39,914] ====> Epoch: 70 Time: 9.03 FinetuneMSE: 0.004324387 lr: 0.00027
+[2026-06-21 19:14:39,915] Epoch 71: Loss=0.004324, Best=0.004318, NoImprove=3/10
+[2026-06-21 19:14:48,800] ====> Epoch: 71 Time: 8.88 FinetuneMSE: 0.004269867 lr: 0.00027
+[2026-06-21 19:14:48,801] Epoch 72: Loss=0.004270, Best=0.004318, NoImprove=4/10
+[2026-06-21 19:14:57,730] ====> Epoch: 72 Time: 8.93 FinetuneMSE: 0.004299915 lr: 0.00027
+[2026-06-21 19:14:57,732] Epoch 73: Loss=0.004300, Best=0.004318, NoImprove=5/10
+[2026-06-21 19:15:06,643] ====> Epoch: 73 Time: 8.91 FinetuneMSE: 0.004092782 lr: 0.00027
+[2026-06-21 19:15:06,644] Epoch 74: Loss improved from 0.004318 to 0.004093 (improvement: 0.000225)
+[2026-06-21 19:15:06,845] Saved best model at epoch 74 to results/asb_st_4/models/best_model_epoch74.pkl
+[2026-06-21 19:15:15,703] ====> Epoch: 74 Time: 8.86 FinetuneMSE: 0.004186403 lr: 0.00024
+[2026-06-21 19:15:15,704] Epoch 75: Loss=0.004186, Best=0.004093, NoImprove=1/10
+[2026-06-21 19:15:24,738] ====> Epoch: 75 Time: 9.03 FinetuneMSE: 0.004087667 lr: 0.00024
+[2026-06-21 19:15:24,739] Epoch 76: Loss=0.004088, Best=0.004093, NoImprove=2/10
+[2026-06-21 19:15:33,627] ====> Epoch: 76 Time: 8.89 FinetuneMSE: 0.004317287 lr: 0.00024
+[2026-06-21 19:15:33,629] Epoch 77: Loss=0.004317, Best=0.004093, NoImprove=3/10
+[2026-06-21 19:15:42,572] ====> Epoch: 77 Time: 8.94 FinetuneMSE: 0.004228733 lr: 0.00024
+[2026-06-21 19:15:42,574] Epoch 78: Loss=0.004229, Best=0.004093, NoImprove=4/10
+[2026-06-21 19:15:51,448] ====> Epoch: 78 Time: 8.87 FinetuneMSE: 0.004058945 lr: 0.00024
+[2026-06-21 19:15:51,449] Epoch 79: Loss=0.004059, Best=0.004093, NoImprove=5/10
+[2026-06-21 19:16:00,358] ====> Epoch: 79 Time: 8.91 FinetuneMSE: 0.004070738 lr: 0.00024
+[2026-06-21 19:16:00,359] Epoch 80: Loss=0.004071, Best=0.004093, NoImprove=6/10
+[2026-06-21 19:16:09,454] ====> Epoch: 80 Time: 8.89 FinetuneMSE: 0.003947278 lr: 0.00024
+[2026-06-21 19:16:09,455] Epoch 81: Loss improved from 0.004093 to 0.003947 (improvement: 0.000146)
+[2026-06-21 19:16:09,660] Saved best model at epoch 81 to results/asb_st_4/models/best_model_epoch81.pkl
+[2026-06-21 19:16:18,592] ====> Epoch: 81 Time: 8.93 FinetuneMSE: 0.003951347 lr: 0.00024
+[2026-06-21 19:16:18,593] Epoch 82: Loss=0.003951, Best=0.003947, NoImprove=1/10
+[2026-06-21 19:16:27,595] ====> Epoch: 82 Time: 9.00 FinetuneMSE: 0.004051807 lr: 0.00024
+[2026-06-21 19:16:27,596] Epoch 83: Loss=0.004052, Best=0.003947, NoImprove=2/10
+[2026-06-21 19:16:36,563] ====> Epoch: 83 Time: 8.97 FinetuneMSE: 0.004016011 lr: 0.00024
+[2026-06-21 19:16:36,565] Epoch 84: Loss=0.004016, Best=0.003947, NoImprove=3/10
+[2026-06-21 19:16:45,626] ====> Epoch: 84 Time: 9.06 FinetuneMSE: 0.004037495 lr: 0.00024
+[2026-06-21 19:16:45,627] Epoch 85: Loss=0.004037, Best=0.003947, NoImprove=4/10
+[2026-06-21 19:16:54,515] ====> Epoch: 85 Time: 8.89 FinetuneMSE: 0.003938968 lr: 0.00024
+[2026-06-21 19:16:54,517] Epoch 86: Loss=0.003939, Best=0.003947, NoImprove=5/10
+[2026-06-21 19:17:03,413] ====> Epoch: 86 Time: 8.90 FinetuneMSE: 0.003955012 lr: 0.00024
+[2026-06-21 19:17:03,415] Epoch 87: Loss=0.003955, Best=0.003947, NoImprove=6/10
+[2026-06-21 19:17:12,372] ====> Epoch: 87 Time: 8.96 FinetuneMSE: 0.003952892 lr: 0.00024
+[2026-06-21 19:17:12,373] Epoch 88: Loss=0.003953, Best=0.003947, NoImprove=7/10
+[2026-06-21 19:17:21,360] ====> Epoch: 88 Time: 8.99 FinetuneMSE: 0.003889288 lr: 0.00024
+[2026-06-21 19:17:21,362] Epoch 89: Loss=0.003889, Best=0.003947, NoImprove=8/10
+[2026-06-21 19:17:30,253] ====> Epoch: 89 Time: 8.89 FinetuneMSE: 0.003831848 lr: 0.00024
+[2026-06-21 19:17:30,254] Epoch 90: Loss improved from 0.003947 to 0.003832 (improvement: 0.000115)
+[2026-06-21 19:17:30,461] Saved best model at epoch 90 to results/asb_st_4/models/best_model_epoch90.pkl
+[2026-06-21 19:17:39,603] ====> Epoch: 90 Time: 8.93 FinetuneMSE: 0.003875583 lr: 0.00024
+[2026-06-21 19:17:39,604] Epoch 91: Loss=0.003876, Best=0.003832, NoImprove=1/10
+[2026-06-21 19:17:48,539] ====> Epoch: 91 Time: 8.93 FinetuneMSE: 0.004034182 lr: 0.00024
+[2026-06-21 19:17:48,540] Epoch 92: Loss=0.004034, Best=0.003832, NoImprove=2/10
+[2026-06-21 19:17:57,504] ====> Epoch: 92 Time: 8.96 FinetuneMSE: 0.003955467 lr: 0.00024
+[2026-06-21 19:17:57,505] Epoch 93: Loss=0.003955, Best=0.003832, NoImprove=3/10
+[2026-06-21 19:18:06,438] ====> Epoch: 93 Time: 8.93 FinetuneMSE: 0.003789225 lr: 0.00024
+[2026-06-21 19:18:06,439] Epoch 94: Loss=0.003789, Best=0.003832, NoImprove=4/10
+[2026-06-21 19:18:15,400] ====> Epoch: 94 Time: 8.96 FinetuneMSE: 0.003773649 lr: 0.00024
+[2026-06-21 19:18:15,401] Epoch 95: Loss=0.003774, Best=0.003832, NoImprove=5/10
+[2026-06-21 19:18:24,310] ====> Epoch: 95 Time: 8.91 FinetuneMSE: 0.003746606 lr: 0.00024
+[2026-06-21 19:18:24,311] Epoch 96: Loss=0.003747, Best=0.003832, NoImprove=6/10
+[2026-06-21 19:18:33,213] ====> Epoch: 96 Time: 8.90 FinetuneMSE: 0.003801105 lr: 0.00024
+[2026-06-21 19:18:33,214] Epoch 97: Loss=0.003801, Best=0.003832, NoImprove=7/10
+[2026-06-21 19:18:42,090] ====> Epoch: 97 Time: 8.88 FinetuneMSE: 0.003756502 lr: 0.00024
+[2026-06-21 19:18:42,091] Epoch 98: Loss=0.003757, Best=0.003832, NoImprove=8/10
+[2026-06-21 19:18:51,040] ====> Epoch: 98 Time: 8.95 FinetuneMSE: 0.004087769 lr: 0.00024
+[2026-06-21 19:18:51,041] Epoch 99: Loss=0.004088, Best=0.003832, NoImprove=9/10
+[2026-06-21 19:19:00,067] ====> Epoch: 99 Time: 9.03 FinetuneMSE: 0.004195279 lr: 0.00022
+[2026-06-21 19:19:00,069] Epoch 100: Loss=0.004195, Best=0.003832, NoImprove=10/10
+[2026-06-21 19:19:00,069] Early stopping triggered at epoch 100
+[2026-06-21 19:19:00,069] Best loss achieved: 0.003832
+[2026-06-21 19:19:00,071] Loading best model from results/asb_st_4/models/best_model_epoch90.pkl
+[2026-06-21 19:19:00,246] Resumed best model from epoch 90
+[2026-06-21 19:19:00,246] Training completed. Best loss: 0.003832
+[2026-06-21 19:19:00,246] Total epochs trained: 100

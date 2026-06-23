@@ -1,0 +1,359 @@
+[2026-05-22 18:07:03,057] Starting fine-tuning with early stopping (patience=20, min_delta=0.0001)
+[2026-05-22 18:07:12,857] ====> Epoch: 0 Time: 9.80 Finetune MSE: 0.246731286 lr: 0.00030
+[2026-05-22 18:07:12,858] Epoch 1: Loss improved from inf to 0.246731 (improvement: inf)
+[2026-05-22 18:07:13,071] Saved best model at epoch 1 to results/humaneva_25_100/models/best_model_epoch1.pkl
+[2026-05-22 18:07:22,338] ====> Epoch: 1 Time: 9.27 Finetune MSE: 0.099649030 lr: 0.00030
+[2026-05-22 18:07:22,339] Epoch 2: Loss improved from 0.246731 to 0.099649 (improvement: 0.147082)
+[2026-05-22 18:07:22,553] Saved best model at epoch 2 to results/humaneva_25_100/models/best_model_epoch2.pkl
+[2026-05-22 18:07:31,818] ====> Epoch: 2 Time: 9.26 Finetune MSE: 0.066214550 lr: 0.00030
+[2026-05-22 18:07:31,820] Epoch 3: Loss improved from 0.099649 to 0.066215 (improvement: 0.033434)
+[2026-05-22 18:07:32,029] Saved best model at epoch 3 to results/humaneva_25_100/models/best_model_epoch3.pkl
+[2026-05-22 18:07:41,341] ====> Epoch: 3 Time: 9.31 Finetune MSE: 0.047904500 lr: 0.00030
+[2026-05-22 18:07:41,342] Epoch 4: Loss improved from 0.066215 to 0.047904 (improvement: 0.018310)
+[2026-05-22 18:07:41,554] Saved best model at epoch 4 to results/humaneva_25_100/models/best_model_epoch4.pkl
+[2026-05-22 18:07:50,842] ====> Epoch: 4 Time: 9.29 Finetune MSE: 0.037855791 lr: 0.00030
+[2026-05-22 18:07:50,844] Epoch 5: Loss improved from 0.047904 to 0.037856 (improvement: 0.010049)
+[2026-05-22 18:07:51,060] Saved best model at epoch 5 to results/humaneva_25_100/models/best_model_epoch5.pkl
+[2026-05-22 18:08:00,392] ====> Epoch: 5 Time: 9.33 Finetune MSE: 0.031417832 lr: 0.00030
+[2026-05-22 18:08:00,393] Epoch 6: Loss improved from 0.037856 to 0.031418 (improvement: 0.006438)
+[2026-05-22 18:08:00,601] Saved best model at epoch 6 to results/humaneva_25_100/models/best_model_epoch6.pkl
+[2026-05-22 18:08:09,975] ====> Epoch: 6 Time: 9.37 Finetune MSE: 0.026951694 lr: 0.00030
+[2026-05-22 18:08:09,976] Epoch 7: Loss improved from 0.031418 to 0.026952 (improvement: 0.004466)
+[2026-05-22 18:08:10,189] Saved best model at epoch 7 to results/humaneva_25_100/models/best_model_epoch7.pkl
+[2026-05-22 18:08:19,449] ====> Epoch: 7 Time: 9.26 Finetune MSE: 0.023761188 lr: 0.00030
+[2026-05-22 18:08:19,450] Epoch 8: Loss improved from 0.026952 to 0.023761 (improvement: 0.003191)
+[2026-05-22 18:08:19,659] Saved best model at epoch 8 to results/humaneva_25_100/models/best_model_epoch8.pkl
+[2026-05-22 18:08:28,978] ====> Epoch: 8 Time: 9.32 Finetune MSE: 0.022096688 lr: 0.00030
+[2026-05-22 18:08:28,979] Epoch 9: Loss improved from 0.023761 to 0.022097 (improvement: 0.001664)
+[2026-05-22 18:08:29,192] Saved best model at epoch 9 to results/humaneva_25_100/models/best_model_epoch9.pkl
+[2026-05-22 18:08:38,485] ====> Epoch: 9 Time: 9.29 Finetune MSE: 0.019533727 lr: 0.00030
+[2026-05-22 18:08:38,486] Epoch 10: Loss improved from 0.022097 to 0.019534 (improvement: 0.002563)
+[2026-05-22 18:08:38,690] Saved best model at epoch 10 to results/humaneva_25_100/models/best_model_epoch10.pkl
+[2026-05-22 18:08:48,199] ====> Epoch: 10 Time: 9.31 Finetune MSE: 0.017316940 lr: 0.00030
+[2026-05-22 18:08:48,200] Epoch 11: Loss improved from 0.019534 to 0.017317 (improvement: 0.002217)
+[2026-05-22 18:08:48,415] Saved best model at epoch 11 to results/humaneva_25_100/models/best_model_epoch11.pkl
+[2026-05-22 18:08:57,749] ====> Epoch: 11 Time: 9.33 Finetune MSE: 0.014529581 lr: 0.00030
+[2026-05-22 18:08:57,750] Epoch 12: Loss improved from 0.017317 to 0.014530 (improvement: 0.002787)
+[2026-05-22 18:08:57,962] Saved best model at epoch 12 to results/humaneva_25_100/models/best_model_epoch12.pkl
+[2026-05-22 18:09:07,310] ====> Epoch: 12 Time: 9.35 Finetune MSE: 0.012473230 lr: 0.00030
+[2026-05-22 18:09:07,311] Epoch 13: Loss improved from 0.014530 to 0.012473 (improvement: 0.002056)
+[2026-05-22 18:09:07,516] Saved best model at epoch 13 to results/humaneva_25_100/models/best_model_epoch13.pkl
+[2026-05-22 18:09:16,916] ====> Epoch: 13 Time: 9.40 Finetune MSE: 0.011360620 lr: 0.00030
+[2026-05-22 18:09:16,917] Epoch 14: Loss improved from 0.012473 to 0.011361 (improvement: 0.001113)
+[2026-05-22 18:09:17,121] Saved best model at epoch 14 to results/humaneva_25_100/models/best_model_epoch14.pkl
+[2026-05-22 18:09:26,444] ====> Epoch: 14 Time: 9.32 Finetune MSE: 0.010480556 lr: 0.00030
+[2026-05-22 18:09:26,445] Epoch 15: Loss improved from 0.011361 to 0.010481 (improvement: 0.000880)
+[2026-05-22 18:09:26,649] Saved best model at epoch 15 to results/humaneva_25_100/models/best_model_epoch15.pkl
+[2026-05-22 18:09:36,057] ====> Epoch: 15 Time: 9.41 Finetune MSE: 0.009799371 lr: 0.00030
+[2026-05-22 18:09:36,058] Epoch 16: Loss improved from 0.010481 to 0.009799 (improvement: 0.000681)
+[2026-05-22 18:09:36,277] Saved best model at epoch 16 to results/humaneva_25_100/models/best_model_epoch16.pkl
+[2026-05-22 18:09:45,522] ====> Epoch: 16 Time: 9.24 Finetune MSE: 0.009149398 lr: 0.00030
+[2026-05-22 18:09:45,523] Epoch 17: Loss improved from 0.009799 to 0.009149 (improvement: 0.000650)
+[2026-05-22 18:09:45,722] Saved best model at epoch 17 to results/humaneva_25_100/models/best_model_epoch17.pkl
+[2026-05-22 18:09:54,956] ====> Epoch: 17 Time: 9.23 Finetune MSE: 0.008326186 lr: 0.00030
+[2026-05-22 18:09:54,957] Epoch 18: Loss improved from 0.009149 to 0.008326 (improvement: 0.000823)
+[2026-05-22 18:09:55,161] Saved best model at epoch 18 to results/humaneva_25_100/models/best_model_epoch18.pkl
+[2026-05-22 18:10:04,580] ====> Epoch: 18 Time: 9.42 Finetune MSE: 0.007954543 lr: 0.00030
+[2026-05-22 18:10:04,581] Epoch 19: Loss improved from 0.008326 to 0.007955 (improvement: 0.000372)
+[2026-05-22 18:10:04,784] Saved best model at epoch 19 to results/humaneva_25_100/models/best_model_epoch19.pkl
+[2026-05-22 18:10:14,057] ====> Epoch: 19 Time: 9.27 Finetune MSE: 0.007554171 lr: 0.00030
+[2026-05-22 18:10:14,058] Epoch 20: Loss improved from 0.007955 to 0.007554 (improvement: 0.000400)
+[2026-05-22 18:10:14,257] Saved best model at epoch 20 to results/humaneva_25_100/models/best_model_epoch20.pkl
+[2026-05-22 18:10:23,798] ====> Epoch: 20 Time: 9.34 Finetune MSE: 0.007365900 lr: 0.00030
+[2026-05-22 18:10:23,799] Epoch 21: Loss improved from 0.007554 to 0.007366 (improvement: 0.000188)
+[2026-05-22 18:10:24,000] Saved best model at epoch 21 to results/humaneva_25_100/models/best_model_epoch21.pkl
+[2026-05-22 18:10:33,317] ====> Epoch: 21 Time: 9.32 Finetune MSE: 0.007042387 lr: 0.00030
+[2026-05-22 18:10:33,318] Epoch 22: Loss improved from 0.007366 to 0.007042 (improvement: 0.000324)
+[2026-05-22 18:10:33,521] Saved best model at epoch 22 to results/humaneva_25_100/models/best_model_epoch22.pkl
+[2026-05-22 18:10:42,822] ====> Epoch: 22 Time: 9.30 Finetune MSE: 0.006732596 lr: 0.00030
+[2026-05-22 18:10:42,823] Epoch 23: Loss improved from 0.007042 to 0.006733 (improvement: 0.000310)
+[2026-05-22 18:10:43,036] Saved best model at epoch 23 to results/humaneva_25_100/models/best_model_epoch23.pkl
+[2026-05-22 18:10:52,325] ====> Epoch: 23 Time: 9.29 Finetune MSE: 0.006317426 lr: 0.00030
+[2026-05-22 18:10:52,326] Epoch 24: Loss improved from 0.006733 to 0.006317 (improvement: 0.000415)
+[2026-05-22 18:10:52,524] Saved best model at epoch 24 to results/humaneva_25_100/models/best_model_epoch24.pkl
+[2026-05-22 18:11:01,835] ====> Epoch: 24 Time: 9.31 Finetune MSE: 0.006236331 lr: 0.00030
+[2026-05-22 18:11:01,836] Epoch 25: Loss=0.006236, Best=0.006317, NoImprove=1/20
+[2026-05-22 18:11:11,208] ====> Epoch: 25 Time: 9.37 Finetune MSE: 0.005987010 lr: 0.00030
+[2026-05-22 18:11:11,209] Epoch 26: Loss improved from 0.006317 to 0.005987 (improvement: 0.000330)
+[2026-05-22 18:11:11,421] Saved best model at epoch 26 to results/humaneva_25_100/models/best_model_epoch26.pkl
+[2026-05-22 18:11:20,709] ====> Epoch: 26 Time: 9.29 Finetune MSE: 0.005802764 lr: 0.00030
+[2026-05-22 18:11:20,709] Epoch 27: Loss improved from 0.005987 to 0.005803 (improvement: 0.000184)
+[2026-05-22 18:11:20,920] Saved best model at epoch 27 to results/humaneva_25_100/models/best_model_epoch27.pkl
+[2026-05-22 18:11:30,233] ====> Epoch: 27 Time: 9.31 Finetune MSE: 0.005509740 lr: 0.00030
+[2026-05-22 18:11:30,234] Epoch 28: Loss improved from 0.005803 to 0.005510 (improvement: 0.000293)
+[2026-05-22 18:11:30,457] Saved best model at epoch 28 to results/humaneva_25_100/models/best_model_epoch28.pkl
+[2026-05-22 18:11:39,812] ====> Epoch: 28 Time: 9.35 Finetune MSE: 0.005603029 lr: 0.00030
+[2026-05-22 18:11:39,812] Epoch 29: Loss=0.005603, Best=0.005510, NoImprove=1/20
+[2026-05-22 18:11:49,143] ====> Epoch: 29 Time: 9.33 Finetune MSE: 0.005589087 lr: 0.00030
+[2026-05-22 18:11:49,144] Epoch 30: Loss=0.005589, Best=0.005510, NoImprove=2/20
+[2026-05-22 18:11:58,739] ====> Epoch: 30 Time: 9.38 Finetune MSE: 0.005212260 lr: 0.00030
+[2026-05-22 18:11:58,740] Epoch 31: Loss improved from 0.005510 to 0.005212 (improvement: 0.000297)
+[2026-05-22 18:11:58,981] Saved best model at epoch 31 to results/humaneva_25_100/models/best_model_epoch31.pkl
+[2026-05-22 18:12:08,356] ====> Epoch: 31 Time: 9.37 Finetune MSE: 0.005052467 lr: 0.00030
+[2026-05-22 18:12:08,357] Epoch 32: Loss improved from 0.005212 to 0.005052 (improvement: 0.000160)
+[2026-05-22 18:12:08,577] Saved best model at epoch 32 to results/humaneva_25_100/models/best_model_epoch32.pkl
+[2026-05-22 18:12:17,922] ====> Epoch: 32 Time: 9.34 Finetune MSE: 0.004864437 lr: 0.00030
+[2026-05-22 18:12:17,923] Epoch 33: Loss improved from 0.005052 to 0.004864 (improvement: 0.000188)
+[2026-05-22 18:12:18,132] Saved best model at epoch 33 to results/humaneva_25_100/models/best_model_epoch33.pkl
+[2026-05-22 18:12:27,408] ====> Epoch: 33 Time: 9.28 Finetune MSE: 0.004717835 lr: 0.00030
+[2026-05-22 18:12:27,409] Epoch 34: Loss improved from 0.004864 to 0.004718 (improvement: 0.000147)
+[2026-05-22 18:12:27,622] Saved best model at epoch 34 to results/humaneva_25_100/models/best_model_epoch34.pkl
+[2026-05-22 18:12:37,010] ====> Epoch: 34 Time: 9.39 Finetune MSE: 0.004634648 lr: 0.00030
+[2026-05-22 18:12:37,011] Epoch 35: Loss=0.004635, Best=0.004718, NoImprove=1/20
+[2026-05-22 18:12:46,316] ====> Epoch: 35 Time: 9.30 Finetune MSE: 0.004514562 lr: 0.00030
+[2026-05-22 18:12:46,317] Epoch 36: Loss improved from 0.004718 to 0.004515 (improvement: 0.000203)
+[2026-05-22 18:12:46,524] Saved best model at epoch 36 to results/humaneva_25_100/models/best_model_epoch36.pkl
+[2026-05-22 18:12:55,812] ====> Epoch: 36 Time: 9.29 Finetune MSE: 0.004341846 lr: 0.00030
+[2026-05-22 18:12:55,813] Epoch 37: Loss improved from 0.004515 to 0.004342 (improvement: 0.000173)
+[2026-05-22 18:12:56,010] Saved best model at epoch 37 to results/humaneva_25_100/models/best_model_epoch37.pkl
+[2026-05-22 18:13:05,310] ====> Epoch: 37 Time: 9.30 Finetune MSE: 0.004232690 lr: 0.00030
+[2026-05-22 18:13:05,311] Epoch 38: Loss improved from 0.004342 to 0.004233 (improvement: 0.000109)
+[2026-05-22 18:13:05,513] Saved best model at epoch 38 to results/humaneva_25_100/models/best_model_epoch38.pkl
+[2026-05-22 18:13:14,800] ====> Epoch: 38 Time: 9.29 Finetune MSE: 0.004068367 lr: 0.00030
+[2026-05-22 18:13:14,801] Epoch 39: Loss improved from 0.004233 to 0.004068 (improvement: 0.000164)
+[2026-05-22 18:13:14,998] Saved best model at epoch 39 to results/humaneva_25_100/models/best_model_epoch39.pkl
+[2026-05-22 18:13:24,313] ====> Epoch: 39 Time: 9.31 Finetune MSE: 0.004088097 lr: 0.00030
+[2026-05-22 18:13:24,314] Epoch 40: Loss=0.004088, Best=0.004068, NoImprove=1/20
+[2026-05-22 18:13:33,790] ====> Epoch: 40 Time: 9.27 Finetune MSE: 0.004239442 lr: 0.00030
+[2026-05-22 18:13:33,791] Epoch 41: Loss=0.004239, Best=0.004068, NoImprove=2/20
+[2026-05-22 18:13:43,077] ====> Epoch: 41 Time: 9.29 Finetune MSE: 0.004033537 lr: 0.00030
+[2026-05-22 18:13:43,078] Epoch 42: Loss=0.004034, Best=0.004068, NoImprove=3/20
+[2026-05-22 18:13:52,410] ====> Epoch: 42 Time: 9.33 Finetune MSE: 0.003790267 lr: 0.00030
+[2026-05-22 18:13:52,411] Epoch 43: Loss improved from 0.004068 to 0.003790 (improvement: 0.000278)
+[2026-05-22 18:13:52,614] Saved best model at epoch 43 to results/humaneva_25_100/models/best_model_epoch43.pkl
+[2026-05-22 18:14:01,900] ====> Epoch: 43 Time: 9.29 Finetune MSE: 0.003576546 lr: 0.00030
+[2026-05-22 18:14:01,901] Epoch 44: Loss improved from 0.003790 to 0.003577 (improvement: 0.000214)
+[2026-05-22 18:14:02,109] Saved best model at epoch 44 to results/humaneva_25_100/models/best_model_epoch44.pkl
+[2026-05-22 18:14:11,404] ====> Epoch: 44 Time: 9.29 Finetune MSE: 0.003521641 lr: 0.00030
+[2026-05-22 18:14:11,405] Epoch 45: Loss=0.003522, Best=0.003577, NoImprove=1/20
+[2026-05-22 18:14:20,704] ====> Epoch: 45 Time: 9.30 Finetune MSE: 0.003458994 lr: 0.00030
+[2026-05-22 18:14:20,705] Epoch 46: Loss improved from 0.003577 to 0.003459 (improvement: 0.000118)
+[2026-05-22 18:14:20,926] Saved best model at epoch 46 to results/humaneva_25_100/models/best_model_epoch46.pkl
+[2026-05-22 18:14:30,232] ====> Epoch: 46 Time: 9.31 Finetune MSE: 0.003349369 lr: 0.00030
+[2026-05-22 18:14:30,233] Epoch 47: Loss improved from 0.003459 to 0.003349 (improvement: 0.000110)
+[2026-05-22 18:14:30,449] Saved best model at epoch 47 to results/humaneva_25_100/models/best_model_epoch47.pkl
+[2026-05-22 18:14:39,755] ====> Epoch: 47 Time: 9.30 Finetune MSE: 0.003295391 lr: 0.00030
+[2026-05-22 18:14:39,755] Epoch 48: Loss=0.003295, Best=0.003349, NoImprove=1/20
+[2026-05-22 18:14:49,059] ====> Epoch: 48 Time: 9.30 Finetune MSE: 0.003258894 lr: 0.00030
+[2026-05-22 18:14:49,060] Epoch 49: Loss=0.003259, Best=0.003349, NoImprove=2/20
+[2026-05-22 18:14:58,342] ====> Epoch: 49 Time: 9.28 Finetune MSE: 0.003176587 lr: 0.00027
+[2026-05-22 18:14:58,342] Epoch 50: Loss improved from 0.003349 to 0.003177 (improvement: 0.000173)
+[2026-05-22 18:14:58,561] Saved best model at epoch 50 to results/humaneva_25_100/models/best_model_epoch50.pkl
+[2026-05-22 18:15:08,041] ====> Epoch: 50 Time: 9.28 Finetune MSE: 0.003104286 lr: 0.00027
+[2026-05-22 18:15:08,042] Epoch 51: Loss=0.003104, Best=0.003177, NoImprove=1/20
+[2026-05-22 18:15:17,263] ====> Epoch: 51 Time: 9.22 Finetune MSE: 0.003010790 lr: 0.00027
+[2026-05-22 18:15:17,264] Epoch 52: Loss improved from 0.003177 to 0.003011 (improvement: 0.000166)
+[2026-05-22 18:15:17,464] Saved best model at epoch 52 to results/humaneva_25_100/models/best_model_epoch52.pkl
+[2026-05-22 18:15:26,742] ====> Epoch: 52 Time: 9.28 Finetune MSE: 0.003054407 lr: 0.00027
+[2026-05-22 18:15:26,743] Epoch 53: Loss=0.003054, Best=0.003011, NoImprove=1/20
+[2026-05-22 18:15:36,026] ====> Epoch: 53 Time: 9.28 Finetune MSE: 0.003007211 lr: 0.00027
+[2026-05-22 18:15:36,027] Epoch 54: Loss=0.003007, Best=0.003011, NoImprove=2/20
+[2026-05-22 18:15:45,304] ====> Epoch: 54 Time: 9.28 Finetune MSE: 0.002904858 lr: 0.00027
+[2026-05-22 18:15:45,305] Epoch 55: Loss improved from 0.003011 to 0.002905 (improvement: 0.000106)
+[2026-05-22 18:15:45,503] Saved best model at epoch 55 to results/humaneva_25_100/models/best_model_epoch55.pkl
+[2026-05-22 18:15:54,787] ====> Epoch: 55 Time: 9.28 Finetune MSE: 0.002788431 lr: 0.00027
+[2026-05-22 18:15:54,787] Epoch 56: Loss improved from 0.002905 to 0.002788 (improvement: 0.000116)
+[2026-05-22 18:15:54,994] Saved best model at epoch 56 to results/humaneva_25_100/models/best_model_epoch56.pkl
+[2026-05-22 18:16:04,293] ====> Epoch: 56 Time: 9.30 Finetune MSE: 0.002738250 lr: 0.00027
+[2026-05-22 18:16:04,294] Epoch 57: Loss=0.002738, Best=0.002788, NoImprove=1/20
+[2026-05-22 18:16:13,542] ====> Epoch: 57 Time: 9.25 Finetune MSE: 0.002678567 lr: 0.00027
+[2026-05-22 18:16:13,543] Epoch 58: Loss improved from 0.002788 to 0.002679 (improvement: 0.000110)
+[2026-05-22 18:16:13,739] Saved best model at epoch 58 to results/humaneva_25_100/models/best_model_epoch58.pkl
+[2026-05-22 18:16:22,991] ====> Epoch: 58 Time: 9.25 Finetune MSE: 0.002704782 lr: 0.00027
+[2026-05-22 18:16:22,992] Epoch 59: Loss=0.002705, Best=0.002679, NoImprove=1/20
+[2026-05-22 18:16:32,270] ====> Epoch: 59 Time: 9.28 Finetune MSE: 0.002564269 lr: 0.00027
+[2026-05-22 18:16:32,271] Epoch 60: Loss improved from 0.002679 to 0.002564 (improvement: 0.000114)
+[2026-05-22 18:16:32,467] Saved best model at epoch 60 to results/humaneva_25_100/models/best_model_epoch60.pkl
+[2026-05-22 18:16:41,913] ====> Epoch: 60 Time: 9.25 Finetune MSE: 0.002570430 lr: 0.00027
+[2026-05-22 18:16:41,914] Epoch 61: Loss=0.002570, Best=0.002564, NoImprove=1/20
+[2026-05-22 18:16:51,244] ====> Epoch: 61 Time: 9.33 Finetune MSE: 0.002635475 lr: 0.00027
+[2026-05-22 18:16:51,245] Epoch 62: Loss=0.002635, Best=0.002564, NoImprove=2/20
+[2026-05-22 18:17:00,717] ====> Epoch: 62 Time: 9.47 Finetune MSE: 0.002700065 lr: 0.00027
+[2026-05-22 18:17:00,718] Epoch 63: Loss=0.002700, Best=0.002564, NoImprove=3/20
+[2026-05-22 18:17:10,108] ====> Epoch: 63 Time: 9.39 Finetune MSE: 0.002475696 lr: 0.00027
+[2026-05-22 18:17:10,109] Epoch 64: Loss=0.002476, Best=0.002564, NoImprove=4/20
+[2026-05-22 18:17:19,443] ====> Epoch: 64 Time: 9.33 Finetune MSE: 0.002397250 lr: 0.00027
+[2026-05-22 18:17:19,444] Epoch 65: Loss improved from 0.002564 to 0.002397 (improvement: 0.000167)
+[2026-05-22 18:17:19,654] Saved best model at epoch 65 to results/humaneva_25_100/models/best_model_epoch65.pkl
+[2026-05-22 18:17:29,061] ====> Epoch: 65 Time: 9.41 Finetune MSE: 0.002332829 lr: 0.00027
+[2026-05-22 18:17:29,062] Epoch 66: Loss=0.002333, Best=0.002397, NoImprove=1/20
+[2026-05-22 18:17:38,359] ====> Epoch: 66 Time: 9.30 Finetune MSE: 0.002194555 lr: 0.00027
+[2026-05-22 18:17:38,360] Epoch 67: Loss improved from 0.002397 to 0.002195 (improvement: 0.000203)
+[2026-05-22 18:17:38,567] Saved best model at epoch 67 to results/humaneva_25_100/models/best_model_epoch67.pkl
+[2026-05-22 18:17:47,845] ====> Epoch: 67 Time: 9.28 Finetune MSE: 0.002379507 lr: 0.00027
+[2026-05-22 18:17:47,846] Epoch 68: Loss=0.002380, Best=0.002195, NoImprove=1/20
+[2026-05-22 18:17:57,112] ====> Epoch: 68 Time: 9.27 Finetune MSE: 0.002273143 lr: 0.00027
+[2026-05-22 18:17:57,113] Epoch 69: Loss=0.002273, Best=0.002195, NoImprove=2/20
+[2026-05-22 18:18:06,406] ====> Epoch: 69 Time: 9.29 Finetune MSE: 0.002228663 lr: 0.00027
+[2026-05-22 18:18:06,407] Epoch 70: Loss=0.002229, Best=0.002195, NoImprove=3/20
+[2026-05-22 18:18:15,909] ====> Epoch: 70 Time: 9.30 Finetune MSE: 0.002162381 lr: 0.00027
+[2026-05-22 18:18:15,910] Epoch 71: Loss=0.002162, Best=0.002195, NoImprove=4/20
+[2026-05-22 18:18:25,198] ====> Epoch: 71 Time: 9.29 Finetune MSE: 0.002145351 lr: 0.00027
+[2026-05-22 18:18:25,199] Epoch 72: Loss=0.002145, Best=0.002195, NoImprove=5/20
+[2026-05-22 18:18:34,413] ====> Epoch: 72 Time: 9.21 Finetune MSE: 0.002047652 lr: 0.00027
+[2026-05-22 18:18:34,414] Epoch 73: Loss improved from 0.002195 to 0.002048 (improvement: 0.000147)
+[2026-05-22 18:18:34,611] Saved best model at epoch 73 to results/humaneva_25_100/models/best_model_epoch73.pkl
+[2026-05-22 18:18:43,899] ====> Epoch: 73 Time: 9.29 Finetune MSE: 0.002040813 lr: 0.00027
+[2026-05-22 18:18:43,900] Epoch 74: Loss=0.002041, Best=0.002048, NoImprove=1/20
+[2026-05-22 18:18:53,239] ====> Epoch: 74 Time: 9.34 Finetune MSE: 0.002059192 lr: 0.00024
+[2026-05-22 18:18:53,240] Epoch 75: Loss=0.002059, Best=0.002048, NoImprove=2/20
+[2026-05-22 18:19:02,454] ====> Epoch: 75 Time: 9.21 Finetune MSE: 0.001954901 lr: 0.00024
+[2026-05-22 18:19:02,455] Epoch 76: Loss=0.001955, Best=0.002048, NoImprove=3/20
+[2026-05-22 18:19:11,714] ====> Epoch: 76 Time: 9.26 Finetune MSE: 0.001903998 lr: 0.00024
+[2026-05-22 18:19:11,715] Epoch 77: Loss improved from 0.002048 to 0.001904 (improvement: 0.000144)
+[2026-05-22 18:19:11,910] Saved best model at epoch 77 to results/humaneva_25_100/models/best_model_epoch77.pkl
+[2026-05-22 18:19:21,235] ====> Epoch: 77 Time: 9.32 Finetune MSE: 0.001911024 lr: 0.00024
+[2026-05-22 18:19:21,236] Epoch 78: Loss=0.001911, Best=0.001904, NoImprove=1/20
+[2026-05-22 18:19:30,638] ====> Epoch: 78 Time: 9.40 Finetune MSE: 0.001914137 lr: 0.00024
+[2026-05-22 18:19:30,639] Epoch 79: Loss=0.001914, Best=0.001904, NoImprove=2/20
+[2026-05-22 18:19:39,942] ====> Epoch: 79 Time: 9.30 Finetune MSE: 0.001888943 lr: 0.00024
+[2026-05-22 18:19:39,943] Epoch 80: Loss=0.001889, Best=0.001904, NoImprove=3/20
+[2026-05-22 18:19:49,508] ====> Epoch: 80 Time: 9.35 Finetune MSE: 0.001987594 lr: 0.00024
+[2026-05-22 18:19:49,512] Epoch 81: Loss=0.001988, Best=0.001904, NoImprove=4/20
+[2026-05-22 18:19:58,925] ====> Epoch: 81 Time: 9.41 Finetune MSE: 0.001912724 lr: 0.00024
+[2026-05-22 18:19:58,926] Epoch 82: Loss=0.001913, Best=0.001904, NoImprove=5/20
+[2026-05-22 18:20:08,265] ====> Epoch: 82 Time: 9.34 Finetune MSE: 0.001820438 lr: 0.00024
+[2026-05-22 18:20:08,265] Epoch 83: Loss=0.001820, Best=0.001904, NoImprove=6/20
+[2026-05-22 18:20:17,630] ====> Epoch: 83 Time: 9.36 Finetune MSE: 0.001852908 lr: 0.00024
+[2026-05-22 18:20:17,631] Epoch 84: Loss=0.001853, Best=0.001904, NoImprove=7/20
+[2026-05-22 18:20:26,945] ====> Epoch: 84 Time: 9.31 Finetune MSE: 0.001755496 lr: 0.00024
+[2026-05-22 18:20:26,946] Epoch 85: Loss improved from 0.001904 to 0.001755 (improvement: 0.000149)
+[2026-05-22 18:20:27,144] Saved best model at epoch 85 to results/humaneva_25_100/models/best_model_epoch85.pkl
+[2026-05-22 18:20:36,406] ====> Epoch: 85 Time: 9.26 Finetune MSE: 0.001762569 lr: 0.00024
+[2026-05-22 18:20:36,407] Epoch 86: Loss=0.001763, Best=0.001755, NoImprove=1/20
+[2026-05-22 18:20:45,666] ====> Epoch: 86 Time: 9.26 Finetune MSE: 0.001794762 lr: 0.00024
+[2026-05-22 18:20:45,667] Epoch 87: Loss=0.001795, Best=0.001755, NoImprove=2/20
+[2026-05-22 18:20:54,860] ====> Epoch: 87 Time: 9.19 Finetune MSE: 0.001846302 lr: 0.00024
+[2026-05-22 18:20:54,861] Epoch 88: Loss=0.001846, Best=0.001755, NoImprove=3/20
+[2026-05-22 18:21:04,068] ====> Epoch: 88 Time: 9.21 Finetune MSE: 0.001717044 lr: 0.00024
+[2026-05-22 18:21:04,069] Epoch 89: Loss=0.001717, Best=0.001755, NoImprove=4/20
+[2026-05-22 18:21:13,347] ====> Epoch: 89 Time: 9.28 Finetune MSE: 0.001680890 lr: 0.00024
+[2026-05-22 18:21:13,348] Epoch 90: Loss=0.001681, Best=0.001755, NoImprove=5/20
+[2026-05-22 18:21:22,771] ====> Epoch: 90 Time: 9.22 Finetune MSE: 0.001710422 lr: 0.00024
+[2026-05-22 18:21:22,772] Epoch 91: Loss=0.001710, Best=0.001755, NoImprove=6/20
+[2026-05-22 18:21:32,050] ====> Epoch: 91 Time: 9.28 Finetune MSE: 0.001700997 lr: 0.00024
+[2026-05-22 18:21:32,050] Epoch 92: Loss=0.001701, Best=0.001755, NoImprove=7/20
+[2026-05-22 18:21:41,353] ====> Epoch: 92 Time: 9.30 Finetune MSE: 0.001786217 lr: 0.00024
+[2026-05-22 18:21:41,354] Epoch 93: Loss=0.001786, Best=0.001755, NoImprove=8/20
+[2026-05-22 18:21:50,620] ====> Epoch: 93 Time: 9.27 Finetune MSE: 0.001776242 lr: 0.00024
+[2026-05-22 18:21:50,621] Epoch 94: Loss=0.001776, Best=0.001755, NoImprove=9/20
+[2026-05-22 18:21:59,922] ====> Epoch: 94 Time: 9.30 Finetune MSE: 0.001719559 lr: 0.00024
+[2026-05-22 18:21:59,923] Epoch 95: Loss=0.001720, Best=0.001755, NoImprove=10/20
+[2026-05-22 18:22:09,232] ====> Epoch: 95 Time: 9.31 Finetune MSE: 0.001643742 lr: 0.00024
+[2026-05-22 18:22:09,233] Epoch 96: Loss improved from 0.001755 to 0.001644 (improvement: 0.000112)
+[2026-05-22 18:22:09,439] Saved best model at epoch 96 to results/humaneva_25_100/models/best_model_epoch96.pkl
+[2026-05-22 18:22:18,898] ====> Epoch: 96 Time: 9.46 Finetune MSE: 0.001631742 lr: 0.00024
+[2026-05-22 18:22:18,899] Epoch 97: Loss=0.001632, Best=0.001644, NoImprove=1/20
+[2026-05-22 18:22:28,219] ====> Epoch: 97 Time: 9.32 Finetune MSE: 0.001569673 lr: 0.00024
+[2026-05-22 18:22:28,220] Epoch 98: Loss=0.001570, Best=0.001644, NoImprove=2/20
+[2026-05-22 18:22:37,437] ====> Epoch: 98 Time: 9.22 Finetune MSE: 0.001542646 lr: 0.00024
+[2026-05-22 18:22:37,438] Epoch 99: Loss improved from 0.001644 to 0.001543 (improvement: 0.000101)
+[2026-05-22 18:22:37,644] Saved best model at epoch 99 to results/humaneva_25_100/models/best_model_epoch99.pkl
+[2026-05-22 18:22:46,965] ====> Epoch: 99 Time: 9.32 Finetune MSE: 0.001569167 lr: 0.00022
+[2026-05-22 18:22:46,966] Epoch 100: Loss=0.001569, Best=0.001543, NoImprove=1/20
+[2026-05-22 18:22:56,487] ====> Epoch: 100 Time: 9.31 Finetune MSE: 0.001520653 lr: 0.00022
+[2026-05-22 18:22:56,488] Epoch 101: Loss=0.001521, Best=0.001543, NoImprove=2/20
+[2026-05-22 18:23:05,798] ====> Epoch: 101 Time: 9.31 Finetune MSE: 0.001530860 lr: 0.00022
+[2026-05-22 18:23:05,799] Epoch 102: Loss=0.001531, Best=0.001543, NoImprove=3/20
+[2026-05-22 18:23:15,010] ====> Epoch: 102 Time: 9.21 Finetune MSE: 0.001547848 lr: 0.00022
+[2026-05-22 18:23:15,011] Epoch 103: Loss=0.001548, Best=0.001543, NoImprove=4/20
+[2026-05-22 18:23:24,242] ====> Epoch: 103 Time: 9.23 Finetune MSE: 0.001495587 lr: 0.00022
+[2026-05-22 18:23:24,243] Epoch 104: Loss=0.001496, Best=0.001543, NoImprove=5/20
+[2026-05-22 18:23:33,456] ====> Epoch: 104 Time: 9.21 Finetune MSE: 0.001498423 lr: 0.00022
+[2026-05-22 18:23:33,456] Epoch 105: Loss=0.001498, Best=0.001543, NoImprove=6/20
+[2026-05-22 18:23:42,826] ====> Epoch: 105 Time: 9.37 Finetune MSE: 0.001596022 lr: 0.00022
+[2026-05-22 18:23:42,827] Epoch 106: Loss=0.001596, Best=0.001543, NoImprove=7/20
+[2026-05-22 18:23:52,086] ====> Epoch: 106 Time: 9.26 Finetune MSE: 0.001546770 lr: 0.00022
+[2026-05-22 18:23:52,087] Epoch 107: Loss=0.001547, Best=0.001543, NoImprove=8/20
+[2026-05-22 18:24:01,293] ====> Epoch: 107 Time: 9.21 Finetune MSE: 0.001533304 lr: 0.00022
+[2026-05-22 18:24:01,294] Epoch 108: Loss=0.001533, Best=0.001543, NoImprove=9/20
+[2026-05-22 18:24:10,592] ====> Epoch: 108 Time: 9.30 Finetune MSE: 0.001516513 lr: 0.00022
+[2026-05-22 18:24:10,593] Epoch 109: Loss=0.001517, Best=0.001543, NoImprove=10/20
+[2026-05-22 18:24:19,881] ====> Epoch: 109 Time: 9.29 Finetune MSE: 0.001496353 lr: 0.00022
+[2026-05-22 18:24:19,882] Epoch 110: Loss=0.001496, Best=0.001543, NoImprove=11/20
+[2026-05-22 18:24:29,413] ====> Epoch: 110 Time: 9.33 Finetune MSE: 0.001507516 lr: 0.00022
+[2026-05-22 18:24:29,414] Epoch 111: Loss=0.001508, Best=0.001543, NoImprove=12/20
+[2026-05-22 18:24:38,730] ====> Epoch: 111 Time: 9.32 Finetune MSE: 0.001518186 lr: 0.00022
+[2026-05-22 18:24:38,731] Epoch 112: Loss=0.001518, Best=0.001543, NoImprove=13/20
+[2026-05-22 18:24:48,025] ====> Epoch: 112 Time: 9.29 Finetune MSE: 0.001469967 lr: 0.00022
+[2026-05-22 18:24:48,026] Epoch 113: Loss=0.001470, Best=0.001543, NoImprove=14/20
+[2026-05-22 18:24:57,322] ====> Epoch: 113 Time: 9.30 Finetune MSE: 0.001472897 lr: 0.00022
+[2026-05-22 18:24:57,323] Epoch 114: Loss=0.001473, Best=0.001543, NoImprove=15/20
+[2026-05-22 18:25:06,792] ====> Epoch: 114 Time: 9.47 Finetune MSE: 0.001482941 lr: 0.00022
+[2026-05-22 18:25:06,793] Epoch 115: Loss=0.001483, Best=0.001543, NoImprove=16/20
+[2026-05-22 18:25:16,123] ====> Epoch: 115 Time: 9.33 Finetune MSE: 0.001443243 lr: 0.00022
+[2026-05-22 18:25:16,124] Epoch 116: Loss=0.001443, Best=0.001543, NoImprove=17/20
+[2026-05-22 18:25:25,377] ====> Epoch: 116 Time: 9.25 Finetune MSE: 0.001448752 lr: 0.00022
+[2026-05-22 18:25:25,378] Epoch 117: Loss=0.001449, Best=0.001543, NoImprove=18/20
+[2026-05-22 18:25:34,712] ====> Epoch: 117 Time: 9.33 Finetune MSE: 0.001428133 lr: 0.00022
+[2026-05-22 18:25:34,712] Epoch 118: Loss improved from 0.001543 to 0.001428 (improvement: 0.000115)
+[2026-05-22 18:25:34,918] Saved best model at epoch 118 to results/humaneva_25_100/models/best_model_epoch118.pkl
+[2026-05-22 18:25:44,206] ====> Epoch: 118 Time: 9.29 Finetune MSE: 0.001443151 lr: 0.00022
+[2026-05-22 18:25:44,207] Epoch 119: Loss=0.001443, Best=0.001428, NoImprove=1/20
+[2026-05-22 18:25:53,532] ====> Epoch: 119 Time: 9.32 Finetune MSE: 0.001475065 lr: 0.00022
+[2026-05-22 18:25:53,533] Epoch 120: Loss=0.001475, Best=0.001428, NoImprove=2/20
+[2026-05-22 18:26:03,021] ====> Epoch: 120 Time: 9.27 Finetune MSE: 0.001419272 lr: 0.00022
+[2026-05-22 18:26:03,022] Epoch 121: Loss=0.001419, Best=0.001428, NoImprove=3/20
+[2026-05-22 18:26:12,311] ====> Epoch: 121 Time: 9.29 Finetune MSE: 0.001440286 lr: 0.00022
+[2026-05-22 18:26:12,312] Epoch 122: Loss=0.001440, Best=0.001428, NoImprove=4/20
+[2026-05-22 18:26:21,619] ====> Epoch: 122 Time: 9.31 Finetune MSE: 0.001511242 lr: 0.00022
+[2026-05-22 18:26:21,619] Epoch 123: Loss=0.001511, Best=0.001428, NoImprove=5/20
+[2026-05-22 18:26:30,941] ====> Epoch: 123 Time: 9.32 Finetune MSE: 0.001430437 lr: 0.00022
+[2026-05-22 18:26:30,942] Epoch 124: Loss=0.001430, Best=0.001428, NoImprove=6/20
+[2026-05-22 18:26:40,188] ====> Epoch: 124 Time: 9.25 Finetune MSE: 0.001403901 lr: 0.00020
+[2026-05-22 18:26:40,189] Epoch 125: Loss=0.001404, Best=0.001428, NoImprove=7/20
+[2026-05-22 18:26:49,460] ====> Epoch: 125 Time: 9.27 Finetune MSE: 0.001390477 lr: 0.00020
+[2026-05-22 18:26:49,461] Epoch 126: Loss=0.001390, Best=0.001428, NoImprove=8/20
+[2026-05-22 18:26:58,768] ====> Epoch: 126 Time: 9.31 Finetune MSE: 0.001384064 lr: 0.00020
+[2026-05-22 18:26:58,768] Epoch 127: Loss=0.001384, Best=0.001428, NoImprove=9/20
+[2026-05-22 18:27:08,068] ====> Epoch: 127 Time: 9.30 Finetune MSE: 0.001370491 lr: 0.00020
+[2026-05-22 18:27:08,069] Epoch 128: Loss=0.001370, Best=0.001428, NoImprove=10/20
+[2026-05-22 18:27:17,337] ====> Epoch: 128 Time: 9.27 Finetune MSE: 0.001323788 lr: 0.00020
+[2026-05-22 18:27:17,338] Epoch 129: Loss improved from 0.001428 to 0.001324 (improvement: 0.000104)
+[2026-05-22 18:27:17,532] Saved best model at epoch 129 to results/humaneva_25_100/models/best_model_epoch129.pkl
+[2026-05-22 18:27:26,848] ====> Epoch: 129 Time: 9.32 Finetune MSE: 0.001345255 lr: 0.00020
+[2026-05-22 18:27:26,849] Epoch 130: Loss=0.001345, Best=0.001324, NoImprove=1/20
+[2026-05-22 18:27:36,334] ====> Epoch: 130 Time: 9.29 Finetune MSE: 0.001326544 lr: 0.00020
+[2026-05-22 18:27:36,335] Epoch 131: Loss=0.001327, Best=0.001324, NoImprove=2/20
+[2026-05-22 18:27:45,676] ====> Epoch: 131 Time: 9.34 Finetune MSE: 0.001332432 lr: 0.00020
+[2026-05-22 18:27:45,677] Epoch 132: Loss=0.001332, Best=0.001324, NoImprove=3/20
+[2026-05-22 18:27:55,019] ====> Epoch: 132 Time: 9.34 Finetune MSE: 0.001320316 lr: 0.00020
+[2026-05-22 18:27:55,020] Epoch 133: Loss=0.001320, Best=0.001324, NoImprove=4/20
+[2026-05-22 18:28:04,327] ====> Epoch: 133 Time: 9.31 Finetune MSE: 0.001296124 lr: 0.00020
+[2026-05-22 18:28:04,328] Epoch 134: Loss=0.001296, Best=0.001324, NoImprove=5/20
+[2026-05-22 18:28:13,659] ====> Epoch: 134 Time: 9.33 Finetune MSE: 0.001310888 lr: 0.00020
+[2026-05-22 18:28:13,660] Epoch 135: Loss=0.001311, Best=0.001324, NoImprove=6/20
+[2026-05-22 18:28:22,981] ====> Epoch: 135 Time: 9.32 Finetune MSE: 0.001327694 lr: 0.00020
+[2026-05-22 18:28:22,982] Epoch 136: Loss=0.001328, Best=0.001324, NoImprove=7/20
+[2026-05-22 18:28:32,275] ====> Epoch: 136 Time: 9.29 Finetune MSE: 0.001328191 lr: 0.00020
+[2026-05-22 18:28:32,276] Epoch 137: Loss=0.001328, Best=0.001324, NoImprove=8/20
+[2026-05-22 18:28:41,548] ====> Epoch: 137 Time: 9.27 Finetune MSE: 0.001324552 lr: 0.00020
+[2026-05-22 18:28:41,549] Epoch 138: Loss=0.001325, Best=0.001324, NoImprove=9/20
+[2026-05-22 18:28:50,841] ====> Epoch: 138 Time: 9.29 Finetune MSE: 0.001307431 lr: 0.00020
+[2026-05-22 18:28:50,841] Epoch 139: Loss=0.001307, Best=0.001324, NoImprove=10/20
+[2026-05-22 18:29:00,103] ====> Epoch: 139 Time: 9.26 Finetune MSE: 0.001278196 lr: 0.00020
+[2026-05-22 18:29:00,104] Epoch 140: Loss=0.001278, Best=0.001324, NoImprove=11/20
+[2026-05-22 18:29:09,610] ====> Epoch: 140 Time: 9.30 Finetune MSE: 0.001261054 lr: 0.00020
+[2026-05-22 18:29:09,611] Epoch 141: Loss=0.001261, Best=0.001324, NoImprove=12/20
+[2026-05-22 18:29:18,878] ====> Epoch: 141 Time: 9.27 Finetune MSE: 0.001271732 lr: 0.00020
+[2026-05-22 18:29:18,879] Epoch 142: Loss=0.001272, Best=0.001324, NoImprove=13/20
+[2026-05-22 18:29:28,115] ====> Epoch: 142 Time: 9.24 Finetune MSE: 0.001250019 lr: 0.00020
+[2026-05-22 18:29:28,115] Epoch 143: Loss=0.001250, Best=0.001324, NoImprove=14/20
+[2026-05-22 18:29:37,370] ====> Epoch: 143 Time: 9.25 Finetune MSE: 0.001235863 lr: 0.00020
+[2026-05-22 18:29:37,371] Epoch 144: Loss=0.001236, Best=0.001324, NoImprove=15/20
+[2026-05-22 18:29:46,581] ====> Epoch: 144 Time: 9.21 Finetune MSE: 0.001239504 lr: 0.00020
+[2026-05-22 18:29:46,581] Epoch 145: Loss=0.001240, Best=0.001324, NoImprove=16/20
+[2026-05-22 18:29:55,850] ====> Epoch: 145 Time: 9.27 Finetune MSE: 0.001301471 lr: 0.00020
+[2026-05-22 18:29:55,851] Epoch 146: Loss=0.001301, Best=0.001324, NoImprove=17/20
+[2026-05-22 18:30:05,061] ====> Epoch: 146 Time: 9.21 Finetune MSE: 0.001316644 lr: 0.00020
+[2026-05-22 18:30:05,062] Epoch 147: Loss=0.001317, Best=0.001324, NoImprove=18/20
+[2026-05-22 18:30:14,270] ====> Epoch: 147 Time: 9.21 Finetune MSE: 0.001300776 lr: 0.00020
+[2026-05-22 18:30:14,271] Epoch 148: Loss=0.001301, Best=0.001324, NoImprove=19/20
+[2026-05-22 18:30:23,649] ====> Epoch: 148 Time: 9.38 Finetune MSE: 0.001245693 lr: 0.00020
+[2026-05-22 18:30:23,650] Epoch 149: Loss=0.001246, Best=0.001324, NoImprove=20/20
+[2026-05-22 18:30:23,650] Early stopping triggered at epoch 149
+[2026-05-22 18:30:23,650] Best loss achieved: 0.001324
+[2026-05-22 18:30:23,651] Loading best model from results/humaneva_25_100/models/best_model_epoch129.pkl
+[2026-05-22 18:30:23,816] Resumed best model from epoch 129
+[2026-05-22 18:30:23,816] Training completed. Best loss: 0.001324
+[2026-05-22 18:30:23,816] Total epochs trained: 149
