@@ -139,32 +139,35 @@ motion_pred
      ├── visualizationasb.py
      └── visualizationh36m.py
      └── visualizationhumaneva.py
-
+------
 H3.6M:
 ```
 python visualizationh36m.py
 ```
-
+------
 HumanEva-I:
 ```
 python visualizationhumaneva.py
 ```
-
+------
 Laboratory Assembly Dataset:
 ```
 python visualizationasb.py
 ```
-
-## Per-frame MPJPE comparison curves for actions
+------
+### Per-frame MPJPE comparison curves for actions
+------
 H3.6M:
+------
 ```
 python eval_perframe_allactions.py  --dataset  h36m   --cfg h36m_25_100
 ```
 
 HumanEva-I:
+------
 ```
 python eval_perframe_allactions.py  --dataset  humaneva  --cfg humaneva_25_100
 ```
-
-The checkpoints can be downloaded from the Baidu Netdisk link [Link:https://pan.baidu.com/s/1j0VwZwqzAlQovsuGun9StA  Extraction code:a57n] and used to replace the results folder in the repository.
+------
+### The checkpoints can be downloaded from the Baidu Netdisk link [Link:https://pan.baidu.com/s/1j0VwZwqzAlQovsuGun9StA  Extraction code:a57n] and used to replace the results folder in the repository.
 
