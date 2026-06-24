@@ -169,9 +169,7 @@ python eval_perframe_allactions.py --dataset humaneva --cfg humaneva_25_100
 
 ## Pre-trained Models
 
-Due to GitHub file size limits, the pre-trained model checkpoints are hosted on Baidu Netdisk. Please download and replace the `results` folder in the repository.
-
-- **Link:** https://pan.baidu.com/s/1j0VwZwqzAlQovsuGun9StA
-- **Extraction Code:** `a57n`
+Due to GitHub file size limits, the pre-trained model checkpoints are hosted on Google Drive. Please download and replace the `results` folder in the repository.
+(https://drive.google.com/drive/folders/1Ai3AU6RqX_ANFonh6qG49ZB3sPekikXU?usp=sharing)
 
 ---
