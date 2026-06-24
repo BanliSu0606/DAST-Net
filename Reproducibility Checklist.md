@@ -66,7 +66,7 @@ Expected data directory: `./data/` with `.npz` files for each dataset.
 
 ## 6. Pre-trained Models
 
-- **Download:** https://pan.baidu.com/s/1j0VwZwqzAlQovsuGun9StA (code: `a57n`)
+- **Download:** (https://drive.google.com/drive/folders/1Ai3AU6RqX_ANFonh6qG49ZB3sPekikXU?usp=sharing)
 - Replace the `./results` folder with the downloaded checkpoints.
 
 ---
